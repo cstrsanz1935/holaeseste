@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-17 01:11:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-16 23:54:57 +0000"
@@ -382,6 +388,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-17 01:12:35 +0000",
       "cooked_beef": "2024-12-17 01:09:18 +0000",
       "apple": "2024-12-16 23:53:48 +0000"
     },
