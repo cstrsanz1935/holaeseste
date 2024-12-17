@@ -243,3 +243,343 @@
 [01:13:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: aidiosss has made the advancement [Isn't It Iron Pick]
 [01:17:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: aidiosss has made the advancement [First Age]
 [01:27:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: cstrsanz1935 has made the advancement [Isn't It Iron Pick]
+[01:31:27] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-26, 39] in dimension 0 (overworld) while populating chunk [-25, 40], causing cascading worldgen lag.
+[01:31:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:31:27] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-27, 39] in dimension 0 (overworld) while populating chunk [-25, 40], causing cascading worldgen lag.
+[01:31:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:40:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:40:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:40:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:40:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:40:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:40:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:40:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 6.803195020180027,3.0,8.944599989363361
+[01:40:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 8.029555403023465,3.0,10.366176044371208
+[01:40:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 9.267405279098568,2.9231679985046384,11.78986271895247
+[01:40:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 9.994381737474043,2.772546541336993,12.625319050757021
+[01:40:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:40:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:40:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:40:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:40:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:40:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:41:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:41:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:41:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:41:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:41:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! -7.86966258285571,1.7384922093173572,6.7537608196495
+[01:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:42:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:43:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:43:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:43:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:43:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:43:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:43:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:43:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:43:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:43:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:43:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:43:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:43:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:43:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:43:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:43:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:43:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:44:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:44:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:44:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:44:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:44:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:44:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! -9.034995057565766,2.0,4.10044743310209
+[01:45:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:45:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:45:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:15] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2510ms behind, skipping 50 tick(s)
+[01:46:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:46:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:01] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4136ms behind, skipping 82 tick(s)
+[01:47:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:47:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:48:00] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2624ms behind, skipping 52 tick(s)
+[01:48:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:48:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:48:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:48:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:48:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:48:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:48:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:48:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:49:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: aidiosss moved wrongly!
+[01:50:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:40] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3920ms behind, skipping 78 tick(s)
+[01:50:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:50:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:51:18] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2340ms behind, skipping 46 tick(s)
+[01:51:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:51:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:51:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:52:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:52:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:52:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:52:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: aidiosss lost connection: Timed out
+[01:52:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: aidiosss left the game
+[01:53:35] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[01:53:35] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 34 mods : minecraft@1.12.2,cyclopscore@1.6.7,mowziesmobs@1.5.8,extendedrenderer@v1.0,mca@6.1.0,configmod@v1.0,lteleporters@1.12.2-3.0.2,jei@4.16.1.1013,damageindicatorsmod@1.0,evilcraftcompat@1.0.0,craftstudioapi@1.0.0,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p2,evilcraft@0.10.78,galacticraftcore@4.0.6,elevatorid@1.3.12,FML@8.0.99.99,bookshelf@2.3.590,coroutil@1.12.1-1.2.37,llibrary@1.7.20,appleskin@1.0.14,waila@1.8.26,galacticraftplanets@4.0.6,hw_inv@1.12.1-1.1.13,micdoodlecore@4.0.6,forge@14.23.5.2860,shetiphiancore@3.5.9,terraqueous@1.4.17,backpack@3.0.2,twilightforest@3.11.1021,chococraft@0.9.1.52,eplus@5.0.179,xpbook@v2.0.1
+[01:53:35] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[01:53:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:53:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: aidiosss[/172.29.106.35:54921] logged in with entity id 76055 at (-1839.236527135611, 68.30000000000001, -481.78032288409196)
+[01:53:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: aidiosss joined the game
+[01:53:36] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['aidiosss'/76055, l='world', x=-1839.24, y=68.30, z=-481.78] connected. Sending ping
+[01:54:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:54:32] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-90, -36] in dimension 0 (overworld) while populating chunk [-90, -35], causing cascading worldgen lag.
+[01:54:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:54:59] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-75, -31] in dimension 0 (overworld) while populating chunk [-75, -30], causing cascading worldgen lag.
+[01:54:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:55:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 8.39330427870459,4.22159719685439,-4.029554461681528
+[01:55:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 9.120044568963294,4.2009578412708635,-4.327684766047298
+[01:55:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 9.862606649287954,4.123634608931795,-4.6196771198229385
+[01:55:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 10.467554104445753,4.002760018907324,-4.904707334163049
+[01:55:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 10.564747688291845,5.0,-5.171443512088217
+[01:55:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 11.532221063335783,5.0,-5.363254242068933
+[01:55:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 12.927772999117224,5.0,-5.380699630188815
+[01:55:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 14.551443060674956,5.0,-5.295676401776177
+[01:55:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 16.292098055555243,5.0,-5.116835892937729
+[01:55:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 18.092372163426717,4.923167998504638,-4.869603753830972
+[01:55:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 19.151976190549703,4.802670830974975,-4.719210618306022
+[01:55:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 20.19324433476595,4.648624841924956,-4.566985869013536
+[01:55:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 21.218160538134725,4.468802621438655,-4.413127686516077
+[01:55:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 22.22849408023535,4.269176006134671,-4.2578128082444096
+[01:55:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 15.541517406003777,-0.1141268862625111,-0.3766573448526742
+[01:55:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 16.527342556842086,-0.16846016394399044,-0.21939297918527245
+[01:55:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 18.279384354319063,-0.16846016394399044,0.047343326708698896
+[01:55:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 20.09404637243574,-0.16846016394399044,0.2821561726969435
+[01:55:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 21.94467689393332,-0.16846016394399044,0.47226211178457334
+[01:55:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 23.816804533074674,-0.16846016394399044,0.5877668394643933
+[01:55:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of cstrsanz1935) moved too quickly! 25.70049350223144,-0.16846016394399044,0.6402696140724515
+[01:56:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[01:56:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[01:56:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[01:56:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[01:56:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: aidiosss was slain by Spider
+[01:57:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: aidiosss lost connection: Timed out
+[01:57:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: aidiosss left the game
+[01:57:06] [Server thread/WARN] [twilightforest]: Dropping inventory items previously held in reserve for player aidiosss
+[01:58:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:58:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:58:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:58:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:58:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:58:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:58:26] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[01:58:26] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 34 mods : minecraft@1.12.2,cyclopscore@1.6.7,mowziesmobs@1.5.8,extendedrenderer@v1.0,mca@6.1.0,configmod@v1.0,lteleporters@1.12.2-3.0.2,jei@4.16.1.1013,damageindicatorsmod@1.0,evilcraftcompat@1.0.0,craftstudioapi@1.0.0,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p2,evilcraft@0.10.78,galacticraftcore@4.0.6,elevatorid@1.3.12,FML@8.0.99.99,bookshelf@2.3.590,coroutil@1.12.1-1.2.37,llibrary@1.7.20,appleskin@1.0.14,waila@1.8.26,galacticraftplanets@4.0.6,hw_inv@1.12.1-1.1.13,micdoodlecore@4.0.6,forge@14.23.5.2860,shetiphiancore@3.5.9,terraqueous@1.4.17,backpack@3.0.2,twilightforest@3.11.1021,chococraft@0.9.1.52,eplus@5.0.179,xpbook@v2.0.1
+[01:58:26] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[01:58:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:58:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: aidiosss[/172.29.106.35:55331] logged in with entity id 88164 at (-1383.1362078467944, 63.086764312744144, -400.53137198917995)
+[01:58:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: aidiosss joined the game
+[01:58:31] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['aidiosss'/88164, l='world', x=-1383.14, y=63.09, z=-400.53] connected. Sending ping
+[01:59:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: aidiosss lost connection: Disconnected
+[01:59:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: aidiosss left the game
+[01:59:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: cstrsanz1935 lost connection: Disconnected
+[01:59:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: cstrsanz1935 left the game
