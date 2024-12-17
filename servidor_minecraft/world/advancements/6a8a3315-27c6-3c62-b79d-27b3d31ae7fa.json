@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-17 00:22:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-16 23:52:06 +0000"
@@ -71,15 +77,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/minecart": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-17 00:19:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-16 23:54:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-17 00:19:12 +0000"
     },
     "done": true
   },
@@ -92,9 +98,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2024-12-16 23:47:36 +0000",
+      "deep_ocean": "2024-12-17 01:05:38 +0000",
       "beaches": "2024-12-16 23:48:55 +0000",
       "forest_hills": "2024-12-16 23:51:14 +0000",
       "plains": "2024-12-16 23:47:44 +0000",
+      "ocean": "2024-12-17 01:05:39 +0000",
       "river": "2024-12-16 23:55:49 +0000"
     },
     "done": false
@@ -213,15 +221,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/iron_trapdoor": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-17 00:19:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-16 23:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-17 00:19:12 +0000"
     },
     "done": true
   },
@@ -255,15 +263,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/boat": {
-    "criteria": {
-      "entered_water": "2024-12-17 00:05:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-16 23:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2024-12-17 00:05:23 +0000"
     },
     "done": true
   },
@@ -343,9 +351,16 @@
     "criteria": {
       "zombie": "2024-12-16 23:59:13 +0000",
       "spider": "2024-12-17 00:19:25 +0000",
+      "creeper": "2024-12-17 00:22:08 +0000",
       "enderman": "2024-12-17 00:03:44 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-17 00:22:02 +0000"
+    },
+    "done": true
   },
   "evilcraft:root": {
     "criteria": {
@@ -365,17 +380,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-12-17 01:09:18 +0000",
+      "apple": "2024-12-16 23:53:48 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 00:19:12 +0000"
     },
     "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "apple": "2024-12-16 23:53:48 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -401,9 +417,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tripwire_hook": {
+  "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
-      "has_string": "2024-12-17 00:19:26 +0000"
+      "has_cobblestone": "2024-12-16 23:54:57 +0000"
     },
     "done": true
   },
@@ -413,9 +429,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
+  "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
-      "has_cobblestone": "2024-12-16 23:54:57 +0000"
+      "has_string": "2024-12-17 00:19:26 +0000"
     },
     "done": true
   },
@@ -431,15 +447,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/hopper": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-17 00:19:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_the_recipe": "2024-12-17 00:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-17 00:19:12 +0000"
     },
     "done": true
   },
@@ -485,27 +501,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2024-12-16 23:54:57 +0000"
-    },
-    "done": true
-  },
   "galacticraftcore:galacticraft/root": {
     "criteria": {
       "tick": "2024-12-16 23:47:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_fence": {
+  "minecraft:recipes/tools/stone_axe": {
     "criteria": {
-      "has_planks": "2024-12-17 00:14:01 +0000"
+      "has_cobblestone": "2024-12-16 23:54:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2024-12-16 23:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:14:01 +0000"
     },
     "done": true
   },
