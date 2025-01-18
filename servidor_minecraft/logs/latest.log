@@ -95,3 +95,16 @@
 [00:23:52] [Server thread/WARN]: Spruce Boat (vehicle of _Castro07) moved wrongly! 0.4534912222457663
 [00:27:16] [Server thread/WARN]: Spruce Boat (vehicle of _Castro07) moved too quickly! -0.03470966543022769,0.0,-10.321768290095463
 [00:27:29] [Server thread/INFO]: [_Castro07: Set the weather to clear]
+[00:34:51] [Server thread/INFO]: _Castro07 has made the advancement [Stone Age]
+[00:35:08] [Server thread/INFO]: _Castro07 has made the advancement [Getting an Upgrade]
+[00:36:39] [Server thread/INFO]: aidiosss hit the ground too hard
+[00:36:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-40, y=78, z=-5}
+[00:36:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-39, y=80, z=-9}
+[00:36:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-39, y=78, z=-6}
+[00:36:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-40, y=78, z=-5}
+[00:36:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-40, y=78, z=-6}
+[00:36:47] [Server thread/INFO]: [_Castro07: Teleported aidiosss to _Castro07]
+[00:38:41] [Server thread/INFO]: _Castro07 has made the advancement [Diamonds!]
+[00:38:42] [Server thread/INFO]: _Castro07 has made the advancement [Acquire Hardware]
+[00:38:43] [Server thread/INFO]: aidiosss has made the advancement [Acquire Hardware]
+[00:38:59] [Server thread/INFO]: aidiosss has made the advancement [Isn't It Iron Pick]
