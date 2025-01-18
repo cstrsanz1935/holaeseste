@@ -1,19 +1,24 @@
 {
-  "minecraft:recipes/food/cake": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_egg": "2025-01-18 00:06:44 +0000"
+      "unlock_right_away": "2025-01-18 00:03:06 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2025-01-18 00:25:21 +0000",
+      "minecraft:frozen_ocean": "2025-01-18 00:25:17 +0000",
+      "minecraft:frozen_river": "2025-01-18 00:07:49 +0000",
+      "minecraft:snowy_plains": "2025-01-18 00:07:54 +0000",
+      "minecraft:snowy_taiga": "2025-01-18 00:03:07 +0000",
+      "minecraft:snowy_beach": "2025-01-18 00:25:16 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-01-18 00:04:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-01-18 00:08:24 +0000"
     },
     "done": true
   },
@@ -23,9 +28,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "unlock_right_away": "2025-01-18 00:03:06 +0000"
+      "has_log": "2025-01-18 00:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-18 00:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-18 00:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-18 00:08:24 +0000"
     },
     "done": true
   },
@@ -35,23 +58,165 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
+  "minecraft:recipes/decorations/ladder": {
     "criteria": {
-      "has_log": "2025-01-18 00:04:37 +0000"
+      "has_stick": "2025-01-18 00:21:12 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
-      "minecraft:frozen_river": "2025-01-18 00:07:49 +0000",
-      "minecraft:snowy_plains": "2025-01-18 00:07:54 +0000",
-      "minecraft:snowy_taiga": "2025-01-18 00:03:07 +0000"
+      "in_water": "2025-01-18 00:23:49 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/misc/paper": {
+  "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
-      "has_reeds": "2025-01-18 00:08:24 +0000"
+      "has_planks": "2025-01-18 00:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-01-18 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-01-18 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-01-18 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-01-18 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-01-18 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-01-18 00:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-01-18 00:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-01-18 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-01-18 00:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-01-18 00:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-01-18 00:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-18 00:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-01-18 00:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-18 00:23:49 +0000"
     },
     "done": true
   },

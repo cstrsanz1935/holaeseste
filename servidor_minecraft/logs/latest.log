@@ -87,3 +87,11 @@
 [00:20:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-23, y=77, z=7}
 [00:20:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-23, y=77, z=10}
 [00:20:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-24, y=77, z=11}
+[00:23:52] [Server thread/WARN]: Spruce Boat (vehicle of _Castro07) moved wrongly! 0.3011327407864357
+[00:23:52] [Server thread/WARN]: Spruce Boat (vehicle of _Castro07) moved wrongly! 1.06898431269056
+[00:23:52] [Server thread/WARN]: Spruce Boat (vehicle of _Castro07) moved wrongly! 1.6023809856295586
+[00:23:52] [Server thread/WARN]: Spruce Boat (vehicle of _Castro07) moved wrongly! 2.129483133427307
+[00:23:52] [Server thread/WARN]: Spruce Boat (vehicle of _Castro07) moved wrongly! 2.6510133089842114
+[00:23:52] [Server thread/WARN]: Spruce Boat (vehicle of _Castro07) moved wrongly! 0.4534912222457663
+[00:27:16] [Server thread/WARN]: Spruce Boat (vehicle of _Castro07) moved too quickly! -0.03470966543022769,0.0,-10.321768290095463
+[00:27:29] [Server thread/INFO]: [_Castro07: Set the weather to clear]
