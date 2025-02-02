@@ -1,190 +1,967 @@
-[00:00:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:01:04] [ServerMain/INFO]: Loaded 1290 recipes
-[00:01:04] [ServerMain/INFO]: Loaded 1399 advancements
-[00:01:06] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[00:01:06] [Server thread/INFO]: Loading properties
-[00:01:06] [Server thread/INFO]: Default game type: SURVIVAL
-[00:01:06] [Server thread/INFO]: Generating keypair
-[00:01:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:01:06] [Server thread/INFO]: Using epoll channel type
-[00:01:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:01:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:01:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:01:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:01:06] [Server thread/INFO]: Preparing level "world"
-[00:01:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:01:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:01:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:01:17] [Worker-Main-1/INFO]: Preparing spawn area: 8%
-[00:01:18] [Server thread/INFO]: Time elapsed: 1361 ms
-[00:01:18] [Server thread/INFO]: Done (11.135s)! For help, type "help"
-[00:03:06] [Server thread/INFO]: _Castro07[/172.29.167.148:49966] logged in with entity id 35 at (-28.5, 76.0, 4.5)
-[00:03:06] [Server thread/INFO]: _Castro07 joined the game
-[00:08:58] [Server thread/INFO]: _Castro07 was blown up by Creeper
-[00:09:03] [Server thread/INFO]: _Castro07 lost connection: Disconnected
-[00:09:03] [Server thread/INFO]: _Castro07 left the game
-[00:16:57] [Server thread/INFO]: aidiosss[/172.29.144.152:57546] logged in with entity id 1965 at (-40.671982579304895, 63.0, 9.300000011920929)
-[00:16:57] [Server thread/INFO]: aidiosss joined the game
-[00:17:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-36, y=61, z=13}
-[00:17:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-36, y=62, z=13}
-[00:17:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-34, y=60, z=14}
-[00:17:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-35, y=60, z=13}
-[00:17:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-35, y=59, z=13}
-[00:17:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-35, y=60, z=13}
-[00:17:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-33, y=58, z=14}
-[00:17:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-33, y=60, z=14}
-[00:17:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-32, y=60, z=15}
-[00:17:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-32, y=59, z=15}
-[00:17:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-32, y=57, z=14}
-[00:17:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-32, y=58, z=15}
-[00:17:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-32, y=59, z=15}
-[00:17:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-33, y=58, z=14}
-[00:17:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-33, y=59, z=14}
-[00:17:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-33, y=58, z=14}
-[00:17:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-32, y=60, z=15}
-[00:17:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-33, y=59, z=14}
-[00:17:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-34, y=59, z=14}
-[00:17:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-33, y=58, z=14}
-[00:18:37] [Server thread/INFO]: _Castro07[/172.29.167.148:50957] logged in with entity id 2356 at (-463.29171804349335, 62.65134596280045, -37.02214382610893)
-[00:18:37] [Server thread/INFO]: _Castro07 joined the game
-[00:19:10] [Server thread/INFO]: [Not Secure] <_Castro07> adsald
-[00:19:44] [Server thread/INFO]: Made _Castro07 a server operator
-[00:19:53] [Server thread/INFO]: [_Castro07: Teleported _Castro07 to aidiosss]
-[00:20:03] [Server thread/INFO]: _Castro07 was killed while fighting aidiosss
-[00:20:03] [Server thread/INFO]: [_Castro07: Killed _Castro07]
-[00:20:17] [Server thread/INFO]: [_Castro07: Teleported aidiosss to _Castro07]
-[00:20:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-31, y=76, z=2}
-[00:20:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-30, y=76, z=2}
-[00:20:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-30, y=76, z=2}
-[00:20:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-30, y=75, z=1}
-[00:20:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-30, y=75, z=1}
-[00:20:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-30, y=75, z=1}
-[00:20:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-30, y=75, z=1}
-[00:20:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-30, y=75, z=1}
-[00:20:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-30, y=75, z=1}
-[00:20:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-29, y=76, z=1}
-[00:20:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-29, y=76, z=1}
-[00:20:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-30, y=76, z=0}
-[00:20:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-30, y=76, z=-1}
-[00:20:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-31, y=76, z=-1}
-[00:20:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-31, y=76, z=-2}
-[00:20:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-32, y=76, z=-2}
-[00:20:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-33, y=76, z=-2}
-[00:20:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-30, y=75, z=1}
-[00:20:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-30, y=75, z=1}
-[00:20:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-30, y=75, z=1}
-[00:20:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-30, y=76, z=2}
-[00:20:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-30, y=76, z=3}
-[00:20:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-29, y=76, z=3}
-[00:20:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-29, y=76, z=4}
-[00:20:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-29, y=75, z=5}
-[00:20:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-28, y=76, z=5}
-[00:20:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-28, y=77, z=5}
-[00:20:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-27, y=77, z=5}
-[00:20:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-26, y=77, z=6}
-[00:20:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-23, y=77, z=7}
-[00:20:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-24, y=77, z=7}
-[00:20:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-23, y=77, z=7}
-[00:20:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-23, y=77, z=10}
-[00:20:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=62, z=55} jd{x=-24, y=77, z=11}
-[00:23:52] [Server thread/WARN]: Spruce Boat (vehicle of _Castro07) moved wrongly! 0.3011327407864357
-[00:23:52] [Server thread/WARN]: Spruce Boat (vehicle of _Castro07) moved wrongly! 1.06898431269056
-[00:23:52] [Server thread/WARN]: Spruce Boat (vehicle of _Castro07) moved wrongly! 1.6023809856295586
-[00:23:52] [Server thread/WARN]: Spruce Boat (vehicle of _Castro07) moved wrongly! 2.129483133427307
-[00:23:52] [Server thread/WARN]: Spruce Boat (vehicle of _Castro07) moved wrongly! 2.6510133089842114
-[00:23:52] [Server thread/WARN]: Spruce Boat (vehicle of _Castro07) moved wrongly! 0.4534912222457663
-[00:27:16] [Server thread/WARN]: Spruce Boat (vehicle of _Castro07) moved too quickly! -0.03470966543022769,0.0,-10.321768290095463
-[00:27:29] [Server thread/INFO]: [_Castro07: Set the weather to clear]
-[00:34:51] [Server thread/INFO]: _Castro07 has made the advancement [Stone Age]
-[00:35:08] [Server thread/INFO]: _Castro07 has made the advancement [Getting an Upgrade]
-[00:36:39] [Server thread/INFO]: aidiosss hit the ground too hard
-[00:36:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-40, y=78, z=-5}
-[00:36:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-39, y=80, z=-9}
-[00:36:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-39, y=78, z=-6}
-[00:36:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-40, y=78, z=-5}
-[00:36:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-40, y=78, z=-6}
-[00:36:47] [Server thread/INFO]: [_Castro07: Teleported aidiosss to _Castro07]
-[00:38:41] [Server thread/INFO]: _Castro07 has made the advancement [Diamonds!]
-[00:38:42] [Server thread/INFO]: _Castro07 has made the advancement [Acquire Hardware]
-[00:38:43] [Server thread/INFO]: aidiosss has made the advancement [Acquire Hardware]
-[00:38:59] [Server thread/INFO]: aidiosss has made the advancement [Isn't It Iron Pick]
-[00:42:14] [Server thread/INFO]: _Castro07 was slain by aidiosss
-[00:42:16] [Server thread/INFO]: aidiosss has made the advancement [Getting an Upgrade]
-[00:42:41] [Server thread/INFO]: [_Castro07: Set own game mode to Spectator Mode]
-[00:42:45] [Server thread/INFO]: aidiosss has made the advancement [Diamonds!]
-[00:42:45] [Server thread/INFO]: [_Castro07: Teleported _Castro07 to aidiosss]
-[00:43:14] [Server thread/INFO]: [_Castro07: Teleported aidiosss to _Castro07]
-[00:44:00] [Server thread/WARN]: _Castro07 moved too quickly! -2.759808535802904,0.39000001549720764,10.288005093687786
-[00:47:13] [Server thread/INFO]: [_Castro07: Teleported _Castro07 to -2910.500000, 75.632198, 1387.500000]
-[00:47:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2751ms or 55 ticks behind
-[00:48:21] [Server thread/INFO]: [_Castro07: Teleported aidiosss to _Castro07]
-[00:48:26] [Server thread/INFO]: [_Castro07: Set own game mode to Survival Mode]
-[00:48:52] [Server thread/INFO]: aidiosss has made the advancement [Monster Hunter]
-[00:48:55] [Server thread/INFO]: _Castro07 has made the advancement [Sweet Dreams]
-[00:49:25] [Server thread/INFO]: _Castro07 has made the advancement [The Parrots and the Bats]
-[00:49:41] [Server thread/INFO]: aidiosss has made the advancement [Sweet Dreams]
-[00:55:54] [Server thread/INFO]: aidiosss has made the advancement [Not Today, Thank You]
-[00:56:12] [Server thread/INFO]: aidiosss was blown up by Creeper
-[00:56:23] [Server thread/INFO]: [_Castro07: Teleported aidiosss to _Castro07]
-[00:56:47] [Server thread/INFO]: aidiosss fell from a high place
-[00:56:51] [Server thread/INFO]: [_Castro07: Teleported aidiosss to _Castro07]
-[00:59:06] [Server thread/INFO]: _Castro07 has made the advancement [Monster Hunter]
-[01:08:47] [Server thread/INFO]: _Castro07 has made the advancement [Isn't It Iron Pick]
-[01:10:37] [Server thread/INFO]: aidiosss has made the advancement [Take Aim]
-[01:11:38] [Server thread/INFO]: [_Castro07: Set the world spawn point to -2893, 61, 1186 [0.0]]
-[01:12:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2892, y=63, z=1186} jd{x=-2891, y=61, z=1188}
-[01:12:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2892, y=63, z=1186} jd{x=-2890, y=61, z=1188}
-[01:12:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2892, y=63, z=1186} jd{x=-2890, y=60, z=1188}
-[01:12:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2892, y=63, z=1186} jd{x=-2892, y=60, z=1185}
-[01:12:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2892, y=63, z=1186} jd{x=-2891, y=60, z=1185}
-[01:12:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2892, y=63, z=1186} jd{x=-2891, y=60, z=1184}
-[01:12:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2892, y=63, z=1186} jd{x=-2891, y=61, z=1184}
-[01:12:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2892, y=63, z=1186} jd{x=-2892, y=60, z=1185}
-[01:12:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2892, y=63, z=1186} jd{x=-2896, y=60, z=1185}
-[01:12:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2892, y=63, z=1186} jd{x=-2896, y=61, z=1184}
-[01:12:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2892, y=63, z=1186} jd{x=-2896, y=61, z=1184}
-[01:13:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2911, y=63, z=1190} jd{x=-2894, y=63, z=1187}
-[01:13:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2911, y=63, z=1190} jd{x=-2894, y=60, z=1187}
-[01:13:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2911, y=63, z=1190} jd{x=-2894, y=60, z=1186}
-[01:13:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2911, y=63, z=1190} jd{x=-2893, y=60, z=1187}
-[01:13:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2911, y=63, z=1190} jd{x=-2894, y=61, z=1189}
-[01:13:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2911, y=63, z=1190} jd{x=-2892, y=61, z=1187}
-[01:13:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2911, y=63, z=1190} jd{x=-2892, y=62, z=1187}
-[01:13:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2911, y=63, z=1190} jd{x=-2894, y=63, z=1187}
-[01:13:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2911, y=63, z=1190} jd{x=-2893, y=63, z=1183}
-[01:13:46] [Server thread/INFO]: [_Castro07: Set the world spawn point to -2895, 63, 1164 [0.0]]
-[01:14:28] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2900, y=62, z=1150}
-[01:14:28] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2900, y=62, z=1150}
-[01:14:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2900, y=62, z=1151}
-[01:14:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2900, y=62, z=1152}
-[01:14:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2902, y=62, z=1154}
-[01:14:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2902, y=62, z=1155}
-[01:14:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2902, y=62, z=1158}
-[01:14:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2902, y=62, z=1157}
-[01:14:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2902, y=62, z=1157}
-[01:14:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2903, y=62, z=1157}
-[01:14:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2903, y=62, z=1159}
-[01:14:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2903, y=62, z=1159}
-[01:14:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2905, y=62, z=1162}
-[01:14:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2904, y=62, z=1161}
-[01:14:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2904, y=62, z=1161}
-[01:14:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2904, y=62, z=1161}
-[01:14:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2906, y=62, z=1166}
-[01:14:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2906, y=62, z=1166}
-[01:14:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2906, y=62, z=1166}
-[01:14:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2906, y=62, z=1165}
-[01:14:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2907, y=62, z=1166}
-[01:14:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2907, y=62, z=1167}
-[01:14:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2908, y=62, z=1169}
-[01:14:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2908, y=62, z=1169}
-[01:14:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2909, y=62, z=1170}
-[01:14:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2909, y=62, z=1171}
-[01:14:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2910, y=62, z=1173}
-[01:14:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2910, y=62, z=1173}
-[01:14:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2911, y=63, z=1175}
-[01:14:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2897, y=62, z=1147} jd{x=-2911, y=63, z=1175}
-[01:16:51] [Server thread/INFO]: _Castro07 lost connection: Disconnected
-[01:16:51] [Server thread/INFO]: _Castro07 left the game
-[01:16:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2738, y=123, z=1431} jd{x=-2737, y=122, z=1432}
-[01:16:55] [Server thread/INFO]: aidiosss lost connection: Disconnected
-[01:16:55] [Server thread/INFO]: aidiosss left the game
+[02Feb2025 22:17:03.553] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+[02Feb2025 22:17:03.580] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[02Feb2025 22:17:14.639] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/holaeseste/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[02Feb2025 22:17:16.963] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/holaeseste/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[02Feb2025 22:17:16.971] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/holaeseste/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[02Feb2025 22:17:16.974] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/holaeseste/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[02Feb2025 22:17:16.976] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/holaeseste/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[02Feb2025 22:17:17.655] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[02Feb2025 22:17:17.658] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[02Feb2025 22:17:28.835] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[02Feb2025 22:17:29.454] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[02Feb2025 22:17:29.777] [main/WARN] [mixin/]: Reference map 'insanelib.refmap.json' for insanelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Feb2025 22:17:30.720] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Feb2025 22:17:31.719] [main/WARN] [mixin/]: Error loading class: atomicstryker/multimine/client/MultiMineClient (java.lang.ClassNotFoundException: atomicstryker.multimine.client.MultiMineClient)
+[02Feb2025 22:17:31.724] [main/WARN] [mixin/]: @Mixin target atomicstryker.multimine.client.MultiMineClient was not found treechop.forge.compat.mixins.json:MultiMineMixin
+[02Feb2025 22:17:32.255] [main/INFO] [net.minecraftforge.coremod.CoreMod.uteamcore/COREMODLOG]: Injected ASMUContainerMenuHook call into ServerPlayer#initMenu
+[02Feb2025 22:17:38.178] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
+[02Feb2025 22:17:39.092] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[02Feb2025 22:17:56.758] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[02Feb2025 22:17:58.247] [main/INFO] [net.minecraftforge.coremod.CoreMod.uteamcore/COREMODLOG]: Injected ASMUContainerMenuHook call into ServerPlayer#initMenu
+[02Feb2025 22:18:05.241] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod easyanvils
+[02Feb2025 22:18:06.106] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.feature.TagsFeature
+[02Feb2025 22:18:06.200] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.feature.FixFeature
+[02Feb2025 22:18:06.215] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.feature.AEC3DFeature
+[02Feb2025 22:18:08.121] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
+[02Feb2025 22:18:08.280] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[02Feb2025 22:18:08.285] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[02Feb2025 22:18:08.286] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[02Feb2025 22:18:08.290] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[02Feb2025 22:18:08.291] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[02Feb2025 22:18:08.291] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[02Feb2025 22:18:08.292] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[02Feb2025 22:18:08.591] [modloading-worker-0/INFO] [JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[02Feb2025 22:18:09.006] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod pickupnotifier
+[02Feb2025 22:18:09.531] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[02Feb2025 22:18:13.196] [modloading-worker-0/INFO] [dev.wuffs.bcc.BCC/]: Better Compatibility Checker loading
+[02Feb2025 22:18:15.526] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.64.
+[02Feb2025 22:18:15.882] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[02Feb2025 22:18:15.883] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[02Feb2025 22:18:16.057] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.VariantSelectorModule
+[02Feb2025 22:18:16.076] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.NarratorReadoutModule
+[02Feb2025 22:18:16.080] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.ClimateControlRemoverModule
+[02Feb2025 22:18:16.090] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.EnchantmentsBegoneModule
+[02Feb2025 22:18:16.102] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.GameNerfsModule
+[02Feb2025 22:18:16.110] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.SpawnerReplacerModule
+[02Feb2025 22:18:16.115] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.AdjustableChatModule
+[02Feb2025 22:18:16.128] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.VillagerRerollingReworkModule
+[02Feb2025 22:18:16.133] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.OverlayShaderModule
+[02Feb2025 22:18:16.138] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.EnchantmentPredicatesModule
+[02Feb2025 22:18:16.145] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VariantLaddersModule
+[02Feb2025 22:18:16.155] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VariantBookshelvesModule
+[02Feb2025 22:18:16.159] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.BambooBackportModule
+[02Feb2025 22:18:16.162] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.CompressedBlocksModule
+[02Feb2025 22:18:16.168] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.MorePottedPlantsModule
+[02Feb2025 22:18:16.173] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.DuskboundBlocksModule
+[02Feb2025 22:18:16.177] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.WoodenPostsModule
+[02Feb2025 22:18:16.190] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.ThatchModule
+[02Feb2025 22:18:16.197] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.MoreStoneVariantsModule
+[02Feb2025 22:18:16.203] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.ShearVinesModule
+[02Feb2025 22:18:16.225] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.NetherBrickFenceGateModule
+[02Feb2025 22:18:16.232] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.GoldBarsModule
+[02Feb2025 22:18:16.239] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.RopeModule
+[02Feb2025 22:18:16.270] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.CelebratoryLampsModule
+[02Feb2025 22:18:16.278] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.SoulSandstoneModule
+[02Feb2025 22:18:16.283] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VariantChestsModule
+[02Feb2025 22:18:16.310] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.LeafCarpetModule
+[02Feb2025 22:18:16.322] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.FramedGlassModule
+[02Feb2025 22:18:16.329] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VerticalPlanksModule
+[02Feb2025 22:18:16.338] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VariantFurnacesModule
+[02Feb2025 22:18:16.345] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.HedgesModule
+[02Feb2025 22:18:16.354] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.HollowLogsModule
+[02Feb2025 22:18:16.367] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.MidoriModule
+[02Feb2025 22:18:16.368] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.RainbowLampsModule
+[02Feb2025 22:18:16.370] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VerticalSlabsModule
+[02Feb2025 22:18:16.381] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.ShinglesModule
+[02Feb2025 22:18:16.398] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.SturdyStoneModule
+[02Feb2025 22:18:16.400] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.StoolsModule
+[02Feb2025 22:18:16.400] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.RawMetalBricksModule
+[02Feb2025 22:18:16.401] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.MoreMudBlocksModule
+[02Feb2025 22:18:16.404] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.GrateModule
+[02Feb2025 22:18:16.412] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.JapanesePaletteModule
+[02Feb2025 22:18:16.415] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.MoreBrickTypesModule
+[02Feb2025 22:18:16.418] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.GlassItemFrameModule
+[02Feb2025 22:18:16.426] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.IndustrialPaletteModule
+[02Feb2025 22:18:16.441] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.NetherObsidianSpikesModule
+[02Feb2025 22:18:16.443] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.PermafrostModule
+[02Feb2025 22:18:16.458] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.FairyRingsModule
+[02Feb2025 22:18:16.471] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.BigStoneClustersModule
+[02Feb2025 22:18:16.475] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.SpiralSpiresModule
+[02Feb2025 22:18:16.487] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.AncientWoodModule
+[02Feb2025 22:18:16.502] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.NewStoneTypesModule
+[02Feb2025 22:18:16.522] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.BlossomTreesModule
+[02Feb2025 22:18:16.537] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.GlimmeringWealdModule
+[02Feb2025 22:18:16.575] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.MonsterBoxModule
+[02Feb2025 22:18:16.592] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.AzaleaWoodModule
+[02Feb2025 22:18:16.596] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.NoMoreLavaPocketsModule
+[02Feb2025 22:18:16.603] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.CorundumModule
+[02Feb2025 22:18:16.628] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.ChorusVegetationModule
+[02Feb2025 22:18:16.646] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.CameraModule
+[02Feb2025 22:18:16.654] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.ElytraIndicatorModule
+[02Feb2025 22:18:16.663] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.ImprovedTooltipsModule
+[02Feb2025 22:18:16.678] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.GreenerGrassModule
+[02Feb2025 22:18:16.712] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.BucketsShowInhabitantsModule
+[02Feb2025 22:18:16.719] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.SoulCandlesModule
+[02Feb2025 22:18:16.732] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.AutoWalkKeybindModule
+[02Feb2025 22:18:16.745] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.VariantAnimalTexturesModule
+[02Feb2025 22:18:16.756] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.MicrocraftingHelperModule
+[02Feb2025 22:18:16.764] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.UsesForCursesModule
+[02Feb2025 22:18:16.771] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.WoolShutsUpMinecartsModule
+[02Feb2025 22:18:16.780] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.BackButtonKeybindModule
+[02Feb2025 22:18:16.792] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.ChestSearchingModule
+[02Feb2025 22:18:16.807] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.LongRangePickBlockModule
+[02Feb2025 22:18:16.816] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.UsageTickerModule
+[02Feb2025 22:18:16.833] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.PistonsMoveTileEntitiesModule
+[02Feb2025 22:18:16.835] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.EnderWatcherModule
+[02Feb2025 22:18:16.840] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.RedstoneRandomizerModule
+[02Feb2025 22:18:16.843] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.FeedingTroughModule
+[02Feb2025 22:18:16.862] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.MetalButtonsModule
+[02Feb2025 22:18:16.866] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.IronRodModule
+[02Feb2025 22:18:16.877] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.ObsidianPlateModule
+[02Feb2025 22:18:16.886] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.ChainsConnectBlocksModule
+[02Feb2025 22:18:16.887] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.GravisandModule
+[02Feb2025 22:18:16.899] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.JukeboxAutomationModule
+[02Feb2025 22:18:16.901] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.DispensersPlaceBlocksModule
+[02Feb2025 22:18:16.902] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.ChuteModule
+[02Feb2025 22:18:16.903] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.QuickArmorSwappingModule
+[02Feb2025 22:18:16.908] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.ItemSharingModule
+[02Feb2025 22:18:16.922] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.AutomaticToolRestockModule
+[02Feb2025 22:18:16.934] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.ExpandedItemInteractionsModule
+[02Feb2025 22:18:16.973] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.InventorySortingModule
+[02Feb2025 22:18:16.981] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.HotbarChangerModule
+[02Feb2025 22:18:16.995] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.EasyTransferingModule
+[02Feb2025 22:18:17.006] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.GoldToolsHaveFortuneModule
+[02Feb2025 22:18:17.022] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.AutomaticRecipeUnlockModule
+[02Feb2025 22:18:17.031] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.UtilityRecipesModule
+[02Feb2025 22:18:17.044] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.PoisonPotatoUsageModule
+[02Feb2025 22:18:17.053] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.BetterElytraRocketModule
+[02Feb2025 22:18:17.060] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.RenewableSporeBlossomsModule
+[02Feb2025 22:18:17.065] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.CoralOnCactusModule
+[02Feb2025 22:18:17.084] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.GlassShardModule
+[02Feb2025 22:18:17.100] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.PigLittersModule
+[02Feb2025 22:18:17.110] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.CampfiresBoostElytraModule
+[02Feb2025 22:18:17.114] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.DyeableItemFramesModule
+[02Feb2025 22:18:17.126] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SlabsToBlocksModule
+[02Feb2025 22:18:17.128] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.MapWashingModule
+[02Feb2025 22:18:17.144] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.EnhancedLaddersModule
+[02Feb2025 22:18:17.149] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.ReacharoundPlacingModule
+[02Feb2025 22:18:17.154] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.HorsesSwimModule
+[02Feb2025 22:18:17.157] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SpongeOnWaterPlacementModule
+[02Feb2025 22:18:17.158] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.ArmedArmorStandsModule
+[02Feb2025 22:18:17.162] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.DoubleDoorOpeningModule
+[02Feb2025 22:18:17.163] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.ZombieVillagersOnNormalModule
+[02Feb2025 22:18:17.166] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.HoeHarvestingModule
+[02Feb2025 22:18:17.171] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.EmotesModule
+[02Feb2025 22:18:17.178] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SlimesToMagmaCubesModule
+[02Feb2025 22:18:17.186] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SnowGolemPlayerHeadsModule
+[02Feb2025 22:18:17.192] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.VexesDieWithTheirMastersModule
+[02Feb2025 22:18:17.192] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.MoreNoteBlockSoundsModule
+[02Feb2025 22:18:17.200] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.PatTheDogsModule
+[02Feb2025 22:18:17.205] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.GrabChickensModule
+[02Feb2025 22:18:17.225] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.MoreBannerLayersModule
+[02Feb2025 22:18:17.231] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.ReplaceScaffoldingModule
+[02Feb2025 22:18:17.237] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.DiamondRepairModule
+[02Feb2025 22:18:17.239] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SaferCreaturesModule
+[02Feb2025 22:18:17.245] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.LockRotationModule
+[02Feb2025 22:18:17.251] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.VillagersFollowEmeraldsModule
+[02Feb2025 22:18:17.257] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.CompassesWorkEverywhereModule
+[02Feb2025 22:18:17.258] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.NoDurabilityOnCosmeticsModule
+[02Feb2025 22:18:17.258] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SpongesBetterModule
+[02Feb2025 22:18:17.264] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SignEditingModule
+[02Feb2025 22:18:17.266] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SimpleHarvestModule
+[02Feb2025 22:18:17.270] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.DragonScalesModule
+[02Feb2025 22:18:17.271] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.ShulkerPackingModule
+[02Feb2025 22:18:17.275] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.FoxhoundModule
+[02Feb2025 22:18:17.281] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.WraithModule
+[02Feb2025 22:18:17.290] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.CrabsModule
+[02Feb2025 22:18:17.299] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.ForgottenModule
+[02Feb2025 22:18:17.314] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.ShibaModule
+[02Feb2025 22:18:17.318] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.StonelingsModule
+[02Feb2025 22:18:17.322] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.ToretoiseModule
+[02Feb2025 22:18:17.330] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.BeaconRedirectionModule
+[02Feb2025 22:18:17.332] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.AmbientDiscsModule
+[02Feb2025 22:18:17.345] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.PathfinderMapsModule
+[02Feb2025 22:18:17.356] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.ColorRunesModule
+[02Feb2025 22:18:17.368] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.PickarangModule
+[02Feb2025 22:18:17.388] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.ParrotEggsModule
+[02Feb2025 22:18:17.399] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.TrowelModule
+[02Feb2025 22:18:17.401] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.AbacusModule
+[02Feb2025 22:18:17.411] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.BottledCloudModule
+[02Feb2025 22:18:17.424] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.TorchArrowModule
+[02Feb2025 22:18:17.431] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.BundleRecipeModule
+[02Feb2025 22:18:17.447] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.AncientTomesModule
+[02Feb2025 22:18:17.462] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.EndermoshMusicDiscModule
+[02Feb2025 22:18:17.466] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.SeedPouchModule
+[02Feb2025 22:18:17.489] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.SkullPikesModule
+[02Feb2025 22:18:17.493] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[02Feb2025 22:18:17.496] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.SlimeInABucketModule
+[02Feb2025 22:18:17.505] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.PipesModule
+[02Feb2025 22:18:17.533] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.BackpackModule
+[02Feb2025 22:18:17.543] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.TinyPotatoModule
+[02Feb2025 22:18:17.551] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.MatrixEnchantingModule
+[02Feb2025 22:18:17.569] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.TotemOfHoldingModule
+[02Feb2025 22:18:17.579] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.CrateModule
+[02Feb2025 22:18:17.588] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.MagnetsModule
+[02Feb2025 22:18:17.605] [modloading-worker-0/INFO] [quark/]: Dispatching Module Step CONSTRUCT
+[02Feb2025 22:18:17.605] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id walkietalkie:updatewalkietalkie_c2s
+[02Feb2025 22:18:17.609] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id walkietalkie:updatespeaker_c2s
+[02Feb2025 22:18:17.610] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id walkietalkie:activatekeypressed_c2s
+[02Feb2025 22:18:17.756] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod puzzleslib
+[02Feb2025 22:18:17.774] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.zombie.feature.PearlerZombie
+[02Feb2025 22:18:17.787] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.zombie.feature.FisherZombie
+[02Feb2025 22:18:17.797] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.zombie.feature.DiggerZombie
+[02Feb2025 22:18:17.823] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.feature.WitchPotionThrowing
+[02Feb2025 22:18:17.827] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.feature.WitchFleeTarget
+[02Feb2025 22:18:17.839] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.feature.ThirstyWitches
+[02Feb2025 22:18:17.858] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.feature.DarkArtWitch
+[02Feb2025 22:18:17.874] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.villager.feature.VillagerAttacking
+[02Feb2025 22:18:17.897] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.spider.feature.ThrowingWeb
+[02Feb2025 22:18:17.919] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.spider.feature.Misc
+[02Feb2025 22:18:17.931] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.feature.SkeletonShoot
+[02Feb2025 22:18:17.947] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.feature.SkeletonFleeTarget
+[02Feb2025 22:18:17.949] [modloading-worker-0/WARN] [insane96mcp.insanelib.InsaneLib/]: No module found with ID enhancedai:mobs
+[02Feb2025 22:18:17.957] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.ghast.feature.GhastShoot
+[02Feb2025 22:18:17.969] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.enderman.feature.ItemDisruption
+[02Feb2025 22:18:17.988] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.enderman.feature.GetOverHere
+[02Feb2025 22:18:18.009] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.drowned.feature.DrownedSwimming
+[02Feb2025 22:18:18.026] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.creeper.feature.CreeperSwell
+[02Feb2025 22:18:18.041] [modloading-worker-0/INFO] [quark/]: Loading Module Pistons Move Tile Entities
+[02Feb2025 22:18:18.049] [modloading-worker-0/INFO] [quark/]: Loading Module Ender Watcher
+[02Feb2025 22:18:18.049] [modloading-worker-0/INFO] [quark/]: Loading Module Redstone Randomizer
+[02Feb2025 22:18:18.049] [modloading-worker-0/INFO] [quark/]: Loading Module Feeding Trough
+[02Feb2025 22:18:18.057] [modloading-worker-0/INFO] [quark/]: Loading Module Metal Buttons
+[02Feb2025 22:18:18.057] [modloading-worker-0/INFO] [quark/]: Loading Module Iron Rod
+[02Feb2025 22:18:18.058] [modloading-worker-0/INFO] [quark/]: Loading Module Obsidian Plate
+[02Feb2025 22:18:18.062] [modloading-worker-0/INFO] [quark/]: Loading Module Chains Connect Blocks
+[02Feb2025 22:18:18.062] [modloading-worker-0/INFO] [quark/]: Loading Module Gravisand
+[02Feb2025 22:18:18.062] [modloading-worker-0/INFO] [quark/]: Loading Module Jukebox Automation
+[02Feb2025 22:18:18.070] [modloading-worker-0/INFO] [quark/]: Loading Module Dispensers Place Blocks
+[02Feb2025 22:18:18.070] [modloading-worker-0/INFO] [quark/]: Loading Module Chute
+[02Feb2025 22:18:18.071] [modloading-worker-0/INFO] [quark/]: Loading Module Variant Ladders
+[02Feb2025 22:18:18.071] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.blaze.feature.BlazeAttack
+[02Feb2025 22:18:18.072] [modloading-worker-0/INFO] [quark/]: Loading Module Variant Bookshelves
+[02Feb2025 22:18:18.074] [modloading-worker-0/INFO] [quark/]: Loading Module Bamboo Backport
+[02Feb2025 22:18:18.074] [modloading-worker-0/INFO] [quark/]: Loading Module Compressed Blocks
+[02Feb2025 22:18:18.074] [modloading-worker-0/INFO] [quark/]: Loading Module More Potted Plants
+[02Feb2025 22:18:18.074] [modloading-worker-0/INFO] [quark/]: Loading Module Duskbound Blocks
+[02Feb2025 22:18:18.074] [modloading-worker-0/INFO] [quark/]: Loading Module Wooden Posts
+[02Feb2025 22:18:18.074] [modloading-worker-0/INFO] [quark/]: Loading Module Thatch
+[02Feb2025 22:18:18.075] [modloading-worker-0/INFO] [quark/]: Loading Module More Stone Variants
+[02Feb2025 22:18:18.075] [modloading-worker-0/INFO] [quark/]: Loading Module Shear Vines
+[02Feb2025 22:18:18.082] [modloading-worker-0/INFO] [quark/]: Loading Module Nether Brick Fence Gate
+[02Feb2025 22:18:18.082] [modloading-worker-0/INFO] [quark/]: Loading Module Gold Bars
+[02Feb2025 22:18:18.083] [modloading-worker-0/INFO] [quark/]: Loading Module Rope
+[02Feb2025 22:18:18.084] [modloading-worker-0/INFO] [quark/]: Loading Module Celebratory Lamps
+[02Feb2025 22:18:18.084] [modloading-worker-0/INFO] [quark/]: Loading Module Soul Sandstone
+[02Feb2025 22:18:18.084] [modloading-worker-0/INFO] [quark/]: Loading Module Variant Chests
+[02Feb2025 22:18:18.098] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.base.feature.Targeting
+[02Feb2025 22:18:18.108] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.base.feature.Shielding
+[02Feb2025 22:18:18.113] [modloading-worker-0/INFO] [quark/]: Loading Module Leaf Carpet
+[02Feb2025 22:18:18.113] [modloading-worker-0/INFO] [quark/]: Loading Module Framed Glass
+[02Feb2025 22:18:18.113] [modloading-worker-0/INFO] [quark/]: Loading Module Vertical Planks
+[02Feb2025 22:18:18.113] [modloading-worker-0/INFO] [quark/]: Loading Module Variant Furnaces
+[02Feb2025 22:18:18.113] [modloading-worker-0/INFO] [quark/]: Loading Module Hedges
+[02Feb2025 22:18:18.113] [modloading-worker-0/INFO] [quark/]: Loading Module Hollow Logs
+[02Feb2025 22:18:18.121] [modloading-worker-0/INFO] [quark/]: Loading Module Midori
+[02Feb2025 22:18:18.122] [modloading-worker-0/INFO] [quark/]: Loading Module Rainbow Lamps
+[02Feb2025 22:18:18.122] [modloading-worker-0/INFO] [quark/]: Loading Module Vertical Slabs
+[02Feb2025 22:18:18.123] [modloading-worker-0/INFO] [quark/]: Loading Module Shingles
+[02Feb2025 22:18:18.123] [modloading-worker-0/INFO] [quark/]: Loading Module Sturdy Stone
+[02Feb2025 22:18:18.124] [modloading-worker-0/INFO] [quark/]: Loading Module Stools
+[02Feb2025 22:18:18.143] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.base.feature.Movement
+[02Feb2025 22:18:18.141] [modloading-worker-0/INFO] [quark/]: Loading Module Raw Metal Bricks
+[02Feb2025 22:18:18.145] [modloading-worker-0/INFO] [quark/]: Loading Module More Mud Blocks
+[02Feb2025 22:18:18.148] [modloading-worker-0/INFO] [quark/]: Loading Module Grate
+[02Feb2025 22:18:18.150] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.base.feature.Base
+[02Feb2025 22:18:18.152] [modloading-worker-0/INFO] [quark/]: Loading Module Japanese Palette
+[02Feb2025 22:18:18.152] [modloading-worker-0/INFO] [quark/]: Loading Module More Brick Types
+[02Feb2025 22:18:18.153] [modloading-worker-0/INFO] [quark/]: Loading Module Glass Item Frame
+[02Feb2025 22:18:18.152] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.base.feature.AvoidExplosions
+[02Feb2025 22:18:18.153] [modloading-worker-0/INFO] [quark/]: Loading Module Industrial Palette
+[02Feb2025 22:18:18.154] [modloading-worker-0/INFO] [quark/]: Loading Module Quick Armor Swapping
+[02Feb2025 22:18:18.156] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.base.feature.Attacking
+[02Feb2025 22:18:18.158] [modloading-worker-0/INFO] [quark/]: Loading Module Item Sharing
+[02Feb2025 22:18:18.159] [modloading-worker-0/INFO] [quark/]: Loading Module Automatic Tool Restock
+[02Feb2025 22:18:18.164] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.base.feature.AntiCheese
+[02Feb2025 22:18:18.173] [modloading-worker-0/INFO] [quark/]: Loading Module Expanded Item Interactions
+[02Feb2025 22:18:18.184] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.feature.AnimalAttacking
+[02Feb2025 22:18:18.190] [modloading-worker-0/INFO] [quark/]: Loading Module Inventory Sorting
+[02Feb2025 22:18:18.190] [modloading-worker-0/INFO] [quark/]: Loading Module Hotbar Changer
+[02Feb2025 22:18:18.190] [modloading-worker-0/INFO] [quark/]: Loading Module Easy Transfering
+[02Feb2025 22:18:18.191] [modloading-worker-0/INFO] [quark/]: Loading Module Beacon Redirection
+[02Feb2025 22:18:18.191] [modloading-worker-0/INFO] [quark/]: Loading Module Ambient Discs
+[02Feb2025 22:18:18.203] [modloading-worker-0/INFO] [quark/]: Loading Module Pathfinder Maps
+[02Feb2025 22:18:18.243] [modloading-worker-0/INFO] [quark/]: Loading Module Color Runes
+[02Feb2025 22:18:18.246] [modloading-worker-0/INFO] [quark/]: Loading Module Pickarang
+[02Feb2025 22:18:18.250] [modloading-worker-0/INFO] [quark/]: Loading Module Parrot Eggs
+[02Feb2025 22:18:18.253] [modloading-worker-0/INFO] [quark/]: Loading Module Trowel
+[02Feb2025 22:18:18.257] [modloading-worker-0/INFO] [quark/]: Loading Module Abacus
+[02Feb2025 22:18:18.257] [modloading-worker-0/INFO] [quark/]: Loading Module Bottled Cloud
+[02Feb2025 22:18:18.258] [modloading-worker-0/INFO] [quark/]: Loading Module Torch Arrow
+[02Feb2025 22:18:18.259] [modloading-worker-0/INFO] [quark/]: Loading Module Bundle Recipe
+[02Feb2025 22:18:18.259] [modloading-worker-0/INFO] [quark/]: Loading Module Ancient Tomes
+[02Feb2025 22:18:18.270] [modloading-worker-0/INFO] [quark/]: Loading Module Endermosh Music Disc
+[02Feb2025 22:18:18.271] [modloading-worker-0/INFO] [quark/]: Loading Module Seed Pouch
+[02Feb2025 22:18:18.272] [modloading-worker-0/INFO] [quark/]: Loading Module Skull Pikes
+[02Feb2025 22:18:18.274] [modloading-worker-0/INFO] [quark/]: Loading Module Slime In A Bucket
+[02Feb2025 22:18:18.275] [modloading-worker-0/INFO] [quark/]: Loading Module Gold Tools Have Fortune
+[02Feb2025 22:18:18.276] [modloading-worker-0/INFO] [quark/]: Loading Module Automatic Recipe Unlock
+[02Feb2025 22:18:18.279] [modloading-worker-0/INFO] [quark/]: Loading Module Utility Recipes
+[02Feb2025 22:18:18.281] [modloading-worker-0/INFO] [quark/]: Loading Module Poison Potato Usage
+[02Feb2025 22:18:18.283] [modloading-worker-0/INFO] [quark/]: Loading Module Better Elytra Rocket
+[02Feb2025 22:18:18.285] [modloading-worker-0/INFO] [quark/]: Loading Module Renewable Spore Blossoms
+[02Feb2025 22:18:18.285] [modloading-worker-0/INFO] [quark/]: Loading Module Coral On Cactus
+[02Feb2025 22:18:18.286] [modloading-worker-0/INFO] [quark/]: Loading Module Glass Shard
+[02Feb2025 22:18:18.286] [modloading-worker-0/INFO] [quark/]: Loading Module Pig Litters
+[02Feb2025 22:18:18.289] [modloading-worker-0/INFO] [quark/]: Loading Module Campfires Boost Elytra
+[02Feb2025 22:18:18.290] [modloading-worker-0/INFO] [quark/]: Loading Module Dyeable Item Frames
+[02Feb2025 22:18:18.291] [modloading-worker-0/INFO] [quark/]: Loading Module Slabs To Blocks
+[02Feb2025 22:18:18.294] [modloading-worker-0/INFO] [quark/]: Loading Module Map Washing
+[02Feb2025 22:18:18.295] [modloading-worker-0/INFO] [quark/]: Loading Module Enhanced Ladders
+[02Feb2025 22:18:18.304] [modloading-worker-0/INFO] [quark/]: Loading Module Reacharound Placing
+[02Feb2025 22:18:18.305] [modloading-worker-0/INFO] [quark/]: Loading Module Horses Swim
+[02Feb2025 22:18:18.306] [modloading-worker-0/INFO] [quark/]: Loading Module Sponge On Water Placement
+[02Feb2025 22:18:18.311] [modloading-worker-0/INFO] [quark/]: Loading Module Armed Armor Stands
+[02Feb2025 22:18:18.312] [modloading-worker-0/INFO] [quark/]: Loading Module Double Door Opening
+[02Feb2025 22:18:18.313] [modloading-worker-0/INFO] [quark/]: Loading Module Zombie Villagers On Normal
+[02Feb2025 22:18:18.320] [modloading-worker-0/INFO] [quark/]: Loading Module Hoe Harvesting
+[02Feb2025 22:18:18.321] [modloading-worker-0/INFO] [quark/]: Loading Module Emotes
+[02Feb2025 22:18:18.322] [modloading-worker-0/INFO] [quark/]: Loading Module Slimes To Magma Cubes
+[02Feb2025 22:18:18.323] [modloading-worker-0/INFO] [quark/]: Loading Module Snow Golem Player Heads
+[02Feb2025 22:18:18.326] [modloading-worker-0/INFO] [quark/]: Loading Module Vexes Die With Their Masters
+[02Feb2025 22:18:18.330] [modloading-worker-0/INFO] [quark/]: Loading Module More Note Block Sounds
+[02Feb2025 22:18:18.338] [modloading-worker-0/INFO] [quark/]: Loading Module Pat The Dogs
+[02Feb2025 22:18:18.344] [modloading-worker-0/INFO] [quark/]: Loading Module Grab Chickens
+[02Feb2025 22:18:18.347] [modloading-worker-0/INFO] [quark/]: Loading Module More Banner Layers
+[02Feb2025 22:18:18.348] [modloading-worker-0/INFO] [quark/]: Loading Module Replace Scaffolding
+[02Feb2025 22:18:18.353] [modloading-worker-0/INFO] [quark/]: Loading Module Diamond Repair
+[02Feb2025 22:18:18.354] [modloading-worker-0/INFO] [quark/]: Loading Module Safer Creatures
+[02Feb2025 22:18:18.360] [modloading-worker-0/INFO] [quark/]: Loading Module Lock Rotation
+[02Feb2025 22:18:18.372] [modloading-worker-0/INFO] [quark/]: Loading Module Villagers Follow Emeralds
+[02Feb2025 22:18:18.377] [modloading-worker-0/INFO] [quark/]: Loading Module Compasses Work Everywhere
+[02Feb2025 22:18:18.379] [modloading-worker-0/INFO] [quark/]: Loading Module No Durability On Cosmetics
+[02Feb2025 22:18:18.380] [modloading-worker-0/INFO] [quark/]: Loading Module Sponges Better
+[02Feb2025 22:18:18.381] [modloading-worker-0/INFO] [quark/]: Loading Module Sign Editing
+[02Feb2025 22:18:18.386] [modloading-worker-0/INFO] [quark/]: Loading Module Simple Harvest
+[02Feb2025 22:18:18.389] [modloading-worker-0/INFO] [quark/]: Loading Module Dragon Scales
+[02Feb2025 22:18:18.390] [modloading-worker-0/INFO] [quark/]: Loading Module Shulker Packing
+[02Feb2025 22:18:18.391] [modloading-worker-0/INFO] [quark/]: Loading Module Nether Obsidian Spikes
+[02Feb2025 22:18:18.397] [modloading-worker-0/INFO] [quark/]: Loading Module Permafrost
+[02Feb2025 22:18:18.398] [modloading-worker-0/INFO] [quark/]: Loading Module Fairy Rings
+[02Feb2025 22:18:18.398] [modloading-worker-0/INFO] [quark/]: Loading Module Big Stone Clusters
+[02Feb2025 22:18:18.399] [modloading-worker-0/INFO] [quark/]: Loading Module Spiral Spires
+[02Feb2025 22:18:18.400] [modloading-worker-0/INFO] [quark/]: Loading Module Ancient Wood
+[02Feb2025 22:18:18.401] [modloading-worker-0/INFO] [quark/]: Loading Module New Stone Types
+[02Feb2025 22:18:18.403] [modloading-worker-0/INFO] [quark/]: Loading Module Blossom Trees
+[02Feb2025 22:18:18.403] [modloading-worker-0/INFO] [quark/]: Loading Module Glimmering Weald
+[02Feb2025 22:18:18.404] [modloading-worker-0/INFO] [quark/]: Loading Module Monster Box
+[02Feb2025 22:18:18.405] [modloading-worker-0/INFO] [quark/]: Loading Module Azalea Wood
+[02Feb2025 22:18:18.413] [modloading-worker-0/INFO] [quark/]: Loading Module No More Lava Pockets
+[02Feb2025 22:18:18.413] [modloading-worker-0/INFO] [quark/]: Loading Module Corundum
+[02Feb2025 22:18:18.413] [modloading-worker-0/INFO] [quark/]: Loading Module Chorus Vegetation
+[02Feb2025 22:18:18.417] [modloading-worker-0/INFO] [quark/]: Loading Module Foxhound
+[02Feb2025 22:18:18.427] [modloading-worker-0/INFO] [quark/]: Loading Module Wraith
+[02Feb2025 22:18:18.433] [modloading-worker-0/INFO] [quark/]: Loading Module Crabs
+[02Feb2025 22:18:18.440] [modloading-worker-0/INFO] [quark/]: Loading Module Forgotten
+[02Feb2025 22:18:18.441] [modloading-worker-0/INFO] [quark/]: Loading Module Shiba
+[02Feb2025 22:18:18.441] [modloading-worker-0/INFO] [quark/]: Loading Module Stonelings
+[02Feb2025 22:18:18.444] [modloading-worker-0/INFO] [quark/]: Loading Module Toretoise
+[02Feb2025 22:18:18.461] [modloading-worker-0/INFO] [quark/]: Loading Module Camera
+[02Feb2025 22:18:18.462] [modloading-worker-0/INFO] [quark/]: Loading Module Elytra Indicator
+[02Feb2025 22:18:18.462] [modloading-worker-0/INFO] [quark/]: Loading Module Improved Tooltips
+[02Feb2025 22:18:18.462] [modloading-worker-0/INFO] [quark/]: Loading Module Greener Grass
+[02Feb2025 22:18:18.462] [modloading-worker-0/INFO] [quark/]: Loading Module Buckets Show Inhabitants
+[02Feb2025 22:18:18.463] [modloading-worker-0/INFO] [quark/]: Loading Module Soul Candles
+[02Feb2025 22:18:18.463] [modloading-worker-0/INFO] [quark/]: Loading Module Auto Walk Keybind
+[02Feb2025 22:18:18.463] [modloading-worker-0/INFO] [quark/]: Loading Module Variant Animal Textures
+[02Feb2025 22:18:18.463] [modloading-worker-0/INFO] [quark/]: Loading Module Microcrafting Helper
+[02Feb2025 22:18:18.464] [modloading-worker-0/INFO] [quark/]: Loading Module Uses For Curses
+[02Feb2025 22:18:18.464] [modloading-worker-0/INFO] [quark/]: Loading Module Wool Shuts Up Minecarts
+[02Feb2025 22:18:18.464] [modloading-worker-0/INFO] [quark/]: Loading Module Back Button Keybind
+[02Feb2025 22:18:18.466] [modloading-worker-0/INFO] [quark/]: Loading Module Chest Searching
+[02Feb2025 22:18:18.466] [modloading-worker-0/INFO] [quark/]: Loading Module Long Range Pick Block
+[02Feb2025 22:18:18.467] [modloading-worker-0/INFO] [quark/]: Loading Module Usage Ticker
+[02Feb2025 22:18:18.467] [modloading-worker-0/INFO] [quark/]: Loading Module Variant Selector
+[02Feb2025 22:18:18.468] [modloading-worker-0/INFO] [quark/]: Loading Module Narrator Readout
+[02Feb2025 22:18:18.472] [modloading-worker-0/INFO] [quark/]: Loading Module Climate Control Remover
+[02Feb2025 22:18:18.472] [modloading-worker-0/INFO] [quark/]: Loading Module Enchantments Begone
+[02Feb2025 22:18:18.472] [modloading-worker-0/INFO] [quark/]: Loading Module Game Nerfs
+[02Feb2025 22:18:18.473] [modloading-worker-0/INFO] [quark/]: Loading Module Spawner Replacer
+[02Feb2025 22:18:18.473] [modloading-worker-0/INFO] [quark/]: Loading Module Adjustable Chat
+[02Feb2025 22:18:18.473] [modloading-worker-0/INFO] [quark/]: Loading Module Villager Rerolling Rework
+[02Feb2025 22:18:18.475] [modloading-worker-0/INFO] [quark/]: Loading Module Overlay Shader
+[02Feb2025 22:18:18.476] [modloading-worker-0/INFO] [quark/]: Loading Module Enchantment Predicates
+[02Feb2025 22:18:18.476] [modloading-worker-0/INFO] [quark/]: Loading Module Pipes
+[02Feb2025 22:18:18.476] [modloading-worker-0/INFO] [quark/]: Loading Module Backpack
+[02Feb2025 22:18:18.477] [modloading-worker-0/INFO] [quark/]: Loading Module Tiny Potato
+[02Feb2025 22:18:18.480] [modloading-worker-0/INFO] [quark/]: Loading Module Matrix Enchanting
+[02Feb2025 22:18:18.482] [modloading-worker-0/INFO] [quark/]: Loading Module Totem Of Holding
+[02Feb2025 22:18:18.482] [modloading-worker-0/INFO] [quark/]: Loading Module Crate
+[02Feb2025 22:18:18.483] [modloading-worker-0/INFO] [quark/]: Loading Module Magnets
+[02Feb2025 22:18:18.739] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod enchantinginfuser
+[02Feb2025 22:18:19.011] [main/INFO] [quark/]: Dispatching Module Step REGISTER
+[02Feb2025 22:18:20.831] [main/INFO] [quark/]: Dispatching Module Step POST_REGISTER
+[02Feb2025 22:18:20.980] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@65ddebac has been registered twice for the same name treechop:chop_wood.
+[02Feb2025 22:18:28.278] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
+[02Feb2025 22:18:30.335] [main/INFO] [quark/]: Dispatching Module Step CONFIG_CHANGED
+[02Feb2025 22:18:31.237] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
+[02Feb2025 22:18:31.452] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
+[02Feb2025 22:18:31.460] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[02Feb2025 22:18:31.872] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[02Feb2025 22:18:32.232] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[02Feb2025 22:18:32.272] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[02Feb2025 22:18:32.277] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[02Feb2025 22:18:32.328] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[02Feb2025 22:18:32.342] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'walkietalkie'
+[02Feb2025 22:18:32.436] [modloading-worker-0/INFO] [dev.wuffs.bcc.BCC/]: Better Compatibility Checker setting up
+[02Feb2025 22:18:33.125] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
+[02Feb2025 22:18:33.144] [modloading-worker-0/INFO] [quark/]: Dispatching Module Step CONFIG_CHANGED
+[02Feb2025 22:18:33.192] [modloading-worker-0/INFO] [quark/]: Dispatching Module Step SETUP
+[02Feb2025 22:18:33.642] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[02Feb2025 22:18:33.643] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[02Feb2025 22:18:33.645] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[02Feb2025 22:18:33.646] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[02Feb2025 22:18:33.699] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: UP_TO_DATE Current: 1.19.5 Target: null
+[02Feb2025 22:18:33.701] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[02Feb2025 22:18:33.716] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 4.0.11 Target: null
+[02Feb2025 22:18:33.717] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[02Feb2025 22:18:33.823] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[02Feb2025 22:18:33.826] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[02Feb2025 22:18:33.826] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[02Feb2025 22:18:33.826] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[02Feb2025 22:18:33.826] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[02Feb2025 22:18:33.827] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[02Feb2025 22:18:33.832] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[02Feb2025 22:18:33.979] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[02Feb2025 22:18:33.985] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[02Feb2025 22:18:33.994] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[02Feb2025 22:18:33.994] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[02Feb2025 22:18:34.058] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
+[02Feb2025 22:18:34.065] [modloading-worker-0/INFO] [quark/]: Dispatching Module Step LOAD_COMPLETE
+[02Feb2025 22:18:34.092] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.ForgeJadeWaystonesPlugin
+[02Feb2025 22:18:34.098] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[02Feb2025 22:18:34.099] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[02Feb2025 22:18:34.143] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[02Feb2025 22:18:34.161] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[02Feb2025 22:18:34.164] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[02Feb2025 22:18:34.207] [main/INFO] [terrablender/]: Registered region quark:biome_provider to index 4 for type OVERWORLD
+[02Feb2025 22:18:34.285] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.8.0 Target: 1.8.0
+[02Feb2025 22:18:34.285] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.19.2
+[02Feb2025 22:18:34.861] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 9.0.0+14 Target: 9.0.0+14
+[02Feb2025 22:18:34.861] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.19.2
+[02Feb2025 22:18:34.964] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA Current: 10.0+7 Target: 10.0+7
+[02Feb2025 22:18:34.965] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[02Feb2025 22:18:35.061] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 8.2.41 Target: null
+[02Feb2025 22:18:35.061] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
+[02Feb2025 22:18:35.080] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: UP_TO_DATE Current: 1.2.41 Target: null
+[02Feb2025 22:18:35.080] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[02Feb2025 22:18:35.428] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Found status: BETA Current: 2.1.1 Target: 2.1.1
+[02Feb2025 22:18:35.428] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.19.2
+[02Feb2025 22:18:35.533] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 16.3.20 Target: 16.3.20
+[02Feb2025 22:18:35.538] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[02Feb2025 22:18:35.854] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 4.4.3.344 Target: null
+[02Feb2025 22:18:35.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[02Feb2025 22:18:35.906] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.1 Target: null
+[02Feb2025 22:18:35.907] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/pickupnotifier.json
+[02Feb2025 22:18:35.928] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Found status: UP_TO_DATE Current: 4.2.4 Target: null
+[02Feb2025 22:18:35.928] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[02Feb2025 22:18:36.299] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: BETA Current: 4.2.1518 Target: null
+[02Feb2025 22:18:36.299] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dsurround] Starting version check at https://raw.githubusercontent.com/Nyfaria/DynamicSurroundingsResurrected/versions/versions.json
+[02Feb2025 22:18:36.313] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 5 column 6 path $..5.0.0.4
+	at com.google.gson.Gson.fromJson(Gson.java:978) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.19.2-43.4.2.jar%23292!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.19.2-43.4.2.jar%23292!/:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at line 5 column 6 path $..5.0.0.4
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1562) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:490) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:413) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ObjectTypeAdapter.read(ObjectTypeAdapter.java:88) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:187) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	... 6 more
+[02Feb2025 22:18:36.315] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[02Feb2025 22:18:37.085] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.19.2-2.5.27 Target: null
+[02Feb2025 22:18:37.085] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.19.x/update.json
+[02Feb2025 22:18:37.159] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 7.0.3 Target: null
+[02Feb2025 22:18:37.160] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Starting version check at https://mc-update-check.anthonyhilyard.com/521590
+[02Feb2025 22:18:37.886] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Found status: UP_TO_DATE Current: 1.1.4 Target: null
+[02Feb2025 22:18:37.886] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[02Feb2025 22:18:37.923] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.4 Target: null
+[02Feb2025 22:18:37.923] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [randomite] Starting version check at http://changelogs.moddinglegacy.com/randomite.json
+[02Feb2025 22:18:38.256] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [randomite] Found status: BETA Current: 1.1.2 Target: null
+[02Feb2025 22:18:38.257] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[02Feb2025 22:18:38.366] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.19.2-1.0.24 Target: null
+[02Feb2025 22:18:38.367] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02Feb2025 22:18:38.580] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.16
+[02Feb2025 22:18:38.580] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[02Feb2025 22:18:38.921] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre35 Target: 7.0.0-pre35
+[02Feb2025 22:18:38.921] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[02Feb2025 22:18:38.943] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 4.4.3 Target: null
+[02Feb2025 22:18:38.943] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[02Feb2025 22:18:39.288] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[02Feb2025 22:18:39.288] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[02Feb2025 22:18:39.302] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 4.2.2 Target: null
+[02Feb2025 22:18:45.319] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02Feb2025 22:18:45.426] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/holaeseste/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23291!/assets/.mcassetsroot' uses unexpected schema
+[02Feb2025 22:18:45.426] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/holaeseste/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23291!/data/.mcassetsroot' uses unexpected schema
+[02Feb2025 22:18:50.624] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[02Feb2025 22:18:53.026] [Worker-Main-1/INFO] [Mantle/]: Loaded 0 loot table injectors injecting into 0 tables in 2.922353 ms
+[02Feb2025 22:18:53.096] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[02Feb2025 22:18:53.253] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[02Feb2025 22:18:53.268] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[02Feb2025 22:18:53.299] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[02Feb2025 22:18:53.406] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[02Feb2025 22:18:53.411] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[02Feb2025 22:18:53.415] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[02Feb2025 22:18:53.441] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[02Feb2025 22:18:53.449] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 17 recipes
+[02Feb2025 22:18:54.693] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement man:thetear: Non [a-z0-9/._-] character in path of location: man:tearoftheman
+
+[02Feb2025 22:18:54.735] [main/INFO] [quark/]: [Automatic Recipe Unlock] Removed 2386 recipe advancements
+[02Feb2025 22:18:54.778] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 461 advancements
+[02Feb2025 22:18:54.785] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[02Feb2025 22:18:54.789] [main/INFO] [Dungeon Crawl/]: Loading data...
+[02Feb2025 22:18:55.374] [main/INFO] [Dungeon Crawl/]: Done.
+[02Feb2025 22:18:55.381] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[02Feb2025 22:18:55.420] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 0 dynamic modifiers in 0.345665 ms
+[02Feb2025 22:18:55.422] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id callablehorses:horse_drop - error: Input does not contain a key [type]: MapLike[{"conditions":[{"condition":"minecraft:entity_properties","predicate":{"type":"#callablehorses:callablehorses"},"entity":"THIS"}]}]
+[02Feb2025 22:18:55.431] [main/INFO] [quark/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
+[02Feb2025 22:18:55.431] [main/INFO] [quark/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
+[02Feb2025 22:18:55.432] [main/INFO] [quark/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
+[02Feb2025 22:18:55.432] [main/INFO] [quark/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
+[02Feb2025 22:18:55.433] [main/INFO] [quark/]: Modified advancement minecraft:husbandry/balanced_diet with 2 patches
+[02Feb2025 22:18:55.434] [main/INFO] [quark/]: Modified advancement minecraft:nether/all_effects with 1 patches
+[02Feb2025 22:18:55.434] [main/INFO] [quark/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
+[02Feb2025 22:18:55.434] [main/INFO] [quark/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
+[02Feb2025 22:18:55.435] [main/INFO] [quark/]: Modified advancement minecraft:nether/all_potions with 1 patches
+[02Feb2025 22:18:58.553] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
+[02Feb2025 22:18:58.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[02Feb2025 22:18:58.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02Feb2025 22:18:58.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02Feb2025 22:18:58.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02Feb2025 22:18:59.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[02Feb2025 22:18:59.240] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[02Feb2025 22:18:59.354] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02Feb2025 22:18:59.355] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[02Feb2025 22:18:59.355] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02Feb2025 22:18:59.356] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[02Feb2025 22:18:59.391] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[02Feb2025 22:18:59.393] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[02Feb2025 22:18:59.394] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/jei-server.toml is not correct. Correcting
+[02Feb2025 22:18:59.395] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[02Feb2025 22:18:59.395] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:18:59.397] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForOp was corrected from null to its default, true. 
+[02Feb2025 22:18:59.398] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForCreative was corrected from null to its default, true. 
+[02Feb2025 22:18:59.399] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForGive was corrected from null to its default, false. 
+[02Feb2025 22:18:59.402] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/mimic-server.toml is not correct. Correcting
+[02Feb2025 22:18:59.403] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mimicSpawnChance was corrected from null to its default, 5. 
+[02Feb2025 22:18:59.404] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key healthBarBlacklist was corrected from null to its default, []. 
+[02Feb2025 22:18:59.409] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/sereneseasons-server.toml is not correct. Correcting
+[02Feb2025 22:18:59.410] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key time_settings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:18:59.410] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key time_settings.day_duration was corrected from null to its default, 24000. 
+[02Feb2025 22:18:59.411] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key time_settings.sub_season_duration was corrected from null to its default, 8. 
+[02Feb2025 22:18:59.412] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key time_settings.starting_sub_season was corrected from null to its default, 1. 
+[02Feb2025 22:18:59.413] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key time_settings.progress_season_while_offline was corrected from null to its default, true. 
+[02Feb2025 22:18:59.414] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key aesthetic_settings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:18:59.415] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key aesthetic_settings.change_grass_color was corrected from null to its default, true. 
+[02Feb2025 22:18:59.415] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key aesthetic_settings.change_foliage_color was corrected from null to its default, true. 
+[02Feb2025 22:18:59.416] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key aesthetic_settings.change_birch_color was corrected from null to its default, true. 
+[02Feb2025 22:18:59.417] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key dimension_settings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:18:59.418] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key dimension_settings.whitelisted_dimensions was corrected from null to its default, [minecraft:overworld]. 
+[02Feb2025 22:18:59.419] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key biome_settings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:18:59.420] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key biome_settings.blacklisted_biomes was corrected from null to its default, [minecraft:lush_caves, minecraft:dripstone_caves, minecraft:ocean, minecraft:deep_ocean, minecraft:frozen_ocean, minecraft:deep_frozen_ocean, minecraft:cold_ocean, minecraft:deep_cold_ocean, minecraft:lukewarm_ocean, minecraft:deep_lukewarm_ocean, minecraft:warm_ocean, minecraft:river, minecraft:the_void, biomesoplenty:glowing_grotto, biomesoplenty:spider_nest]. 
+[02Feb2025 22:18:59.421] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key biome_settings.tropical_biomes was corrected from null to its default, [minecraft:swamp, minecraft:warm_ocean]. 
+[02Feb2025 22:18:59.425] [Server thread/INFO] [Puzzles Lib/]: Loading server config for pickupnotifier
+[02Feb2025 22:18:59.427] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/curios-server.toml is not correct. Correcting
+[02Feb2025 22:18:59.428] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key curiosSettings was corrected from null to its default, []. 
+[02Feb2025 22:18:59.431] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for pickupnotifier
+[02Feb2025 22:18:59.447] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/mantle-server.toml is not correct. Correcting
+[02Feb2025 22:18:59.449] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tagPreferences was corrected from null to its default, [minecraft, tconstruct, tmechworks, create, immersiveengineering, mekanism, thermal]. 
+[02Feb2025 22:18:59.458] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/gravestone-server.toml is not correct. Correcting
+[02Feb2025 22:18:59.460] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enable_obituary was corrected from null to its default, true. 
+[02Feb2025 22:18:59.473] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key replaceable_blocks was corrected from null to its default, [#gravestone:grave_replaceable]. 
+[02Feb2025 22:18:59.475] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key remove_obituary was corrected from null to its default, false. 
+[02Feb2025 22:18:59.476] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key only_owners_can_break was corrected from null to its default, false. 
+[02Feb2025 22:18:59.477] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key spawn_ghost was corrected from null to its default, false. 
+[02Feb2025 22:18:59.479] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key friendly_ghost was corrected from null to its default, true. 
+[02Feb2025 22:18:59.480] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sneak_pickup was corrected from null to its default, false. 
+[02Feb2025 22:18:59.481] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key break_pickup was corrected from null to its default, true. 
+[02Feb2025 22:19:00.510] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/elevatorid-server.toml is not correct. Correcting
+[02Feb2025 22:19:00.511] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.512] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.sameColor was corrected from null to its default, false. 
+[02Feb2025 22:19:00.513] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.range was corrected from null to its default, 384. 
+[02Feb2025 22:19:00.514] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.precisionTarget was corrected from null to its default, true. 
+[02Feb2025 22:19:00.514] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.mobSpawn was corrected from null to its default, false. 
+[02Feb2025 22:19:00.515] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.resetPitchNormal was corrected from null to its default, false. 
+[02Feb2025 22:19:00.515] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.resetPitchDirectional was corrected from null to its default, true. 
+[02Feb2025 22:19:00.516] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.useXP was corrected from null to its default, false. 
+[02Feb2025 22:19:00.516] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.XPPointsAmount was corrected from null to its default, 1. 
+[02Feb2025 22:19:00.519] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[02Feb2025 22:19:00.521] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.521] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[02Feb2025 22:19:00.521] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[02Feb2025 22:19:00.522] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[02Feb2025 22:19:00.523] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[02Feb2025 22:19:00.525] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[02Feb2025 22:19:00.525] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixAdvancementLoading was corrected from null to its default, true. 
+[02Feb2025 22:19:00.526] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[02Feb2025 22:19:00.533] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/solcarrot-server.toml is not correct. Correcting
+[02Feb2025 22:19:00.533] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key milestones was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.534] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key milestones.baseHearts was corrected from null to its default, 10. 
+[02Feb2025 22:19:00.534] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key milestones.heartsPerMilestone was corrected from null to its default, 2. 
+[02Feb2025 22:19:00.535] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key milestones.milestones was corrected from null to its default, [5, 10, 15, 20, 25]. 
+[02Feb2025 22:19:00.536] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key filtering was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.536] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key filtering.blacklist was corrected from null to its default, []. 
+[02Feb2025 22:19:00.539] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key filtering.whitelist was corrected from null to its default, []. 
+[02Feb2025 22:19:00.540] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key filtering.minimumFoodValue was corrected from null to its default, 1. 
+[02Feb2025 22:19:00.541] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key miscellaneous was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.541] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key miscellaneous.resetOnDeath was corrected from null to its default, false. 
+[02Feb2025 22:19:00.541] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key miscellaneous.limitProgressionToSurvival was corrected from null to its default, false. 
+[02Feb2025 22:19:00.546] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/cave_dweller-server.toml is not correct. Correcting
+[02Feb2025 22:19:00.547] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.548] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Spawn was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.549] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Spawn.can_spawn_min was corrected from null to its default, 300. 
+[02Feb2025 22:19:00.550] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Spawn.can_spawn_max was corrected from null to its default, 600. 
+[02Feb2025 22:19:00.550] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Spawn.can_spawn_cooldown_chance was corrected from null to its default, 0.4. 
+[02Feb2025 22:19:00.551] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Spawn.can_spawn_cooldown was corrected from null to its default, 1200. 
+[02Feb2025 22:19:00.551] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Noise was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.552] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Noise.reset_noise_min was corrected from null to its default, 240. 
+[02Feb2025 22:19:00.552] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Noise.reset_noise_max was corrected from null to its default, 360. 
+[02Feb2025 22:19:00.553] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Leave was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.553] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Leave.time_until_leave was corrected from null to its default, 300. 
+[02Feb2025 22:19:00.553] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Leave.time_until_leave_chase was corrected from null to its default, 30. 
+[02Feb2025 22:19:00.554] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.surface_timer_multiplier was corrected from null to its default, 1.0. 
+[02Feb2025 22:19:00.555] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.555] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.spawn_chance_per_tick was corrected from null to its default, 0.005. 
+[02Feb2025 22:19:00.556] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.spawn_height was corrected from null to its default, 40. 
+[02Feb2025 22:19:00.557] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.allow_surface_spawn was corrected from null to its default, false. 
+[02Feb2025 22:19:00.557] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.sky_light_level was corrected from null to its default, 8. 
+[02Feb2025 22:19:00.558] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.block_light_level was corrected from null to its default, 15. 
+[02Feb2025 22:19:00.559] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.maximum_amount was corrected from null to its default, 3. 
+[02Feb2025 22:19:00.559] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.spawn_distance was corrected from null to its default, 16. 
+[02Feb2025 22:19:00.560] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.check_path_to_spawn was corrected from null to its default, true. 
+[02Feb2025 22:19:00.560] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Dimensions was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.561] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Dimensions.dimension_whitelist was corrected from null to its default, [minecraft:overworld]. 
+[02Feb2025 22:19:00.561] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Biomes was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.562] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Biomes.override_biome_datapack_config was corrected from null to its default, false. 
+[02Feb2025 22:19:00.562] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Biomes.surface_biomes_is_whitelist was corrected from null to its default, true. 
+[02Feb2025 22:19:00.563] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Biomes.surface_biomes was corrected from null to its default, []. 
+[02Feb2025 22:19:00.564] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.spotting_range was corrected from null to its default, 60. 
+[02Feb2025 22:19:00.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.can_disable_shields was corrected from null to its default, false. 
+[02Feb2025 22:19:00.567] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.can_climb was corrected from null to its default, true. 
+[02Feb2025 22:19:00.568] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.can_break_door was corrected from null to its default, true. 
+[02Feb2025 22:19:00.569] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.break_door_time was corrected from null to its default, 3. 
+[02Feb2025 22:19:00.570] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.allow_riding was corrected from null to its default, false. 
+[02Feb2025 22:19:00.570] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.target_invisible was corrected from null to its default, true. 
+[02Feb2025 22:19:00.572] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.573] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes.maximum_health was corrected from null to its default, 60.0. 
+[02Feb2025 22:19:00.574] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes.attack_damage was corrected from null to its default, 6.0. 
+[02Feb2025 22:19:00.575] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes.attack_speed was corrected from null to its default, 0.35. 
+[02Feb2025 22:19:00.576] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes.movement_speed was corrected from null to its default, 0.5. 
+[02Feb2025 22:19:00.578] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes.depth_strider_bonus was corrected from null to its default, 1.5. 
+[02Feb2025 22:19:00.580] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Misc was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.581] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Misc.only_play_noise_to_target was corrected from null to its default, false. 
+[02Feb2025 22:19:00.584] [Thread-0/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[02Feb2025 22:19:00.588] [Thread-0/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[02Feb2025 22:19:00.589] [Thread-0/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[02Feb2025 22:19:00.595] [Thread-0/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[02Feb2025 22:19:00.599] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/goatman-server.toml is not correct. Correcting
+[02Feb2025 22:19:00.606] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.607] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Spawn was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.608] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Spawn.can_spawn_min was corrected from null to its default, 120. 
+[02Feb2025 22:19:00.615] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Spawn.can_spawn_max was corrected from null to its default, 220. 
+[02Feb2025 22:19:00.616] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Spawn.can_spawn_cooldown_chance was corrected from null to its default, 0.4. 
+[02Feb2025 22:19:00.617] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Spawn.can_spawn_cooldown was corrected from null to its default, 700. 
+[02Feb2025 22:19:00.618] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Noise was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.620] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Noise.reset_noise_min was corrected from null to its default, 100. 
+[02Feb2025 22:19:00.621] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Noise.reset_noise_max was corrected from null to its default, 180. 
+[02Feb2025 22:19:00.623] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Leave was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.623] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Leave.time_until_leave was corrected from null to its default, 500. 
+[02Feb2025 22:19:00.624] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Leave.time_until_leave_scream was corrected from null to its default, 24. 
+[02Feb2025 22:19:00.625] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.surface_timer_multiplier was corrected from null to its default, 1.0. 
+[02Feb2025 22:19:00.627] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.628] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.spawn_chance_per_tick was corrected from null to its default, 0.05. 
+[02Feb2025 22:19:00.629] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.spawn_height was corrected from null to its default, 500. 
+[02Feb2025 22:19:00.630] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.allow_surface_spawn was corrected from null to its default, true. 
+[02Feb2025 22:19:00.631] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.sky_light_level was corrected from null to its default, 15. 
+[02Feb2025 22:19:00.632] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.block_light_level was corrected from null to its default, 15. 
+[02Feb2025 22:19:00.633] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.maximum_amount was corrected from null to its default, 1. 
+[02Feb2025 22:19:00.633] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.spawn_distance was corrected from null to its default, 16. 
+[02Feb2025 22:19:00.634] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.check_path_to_spawn was corrected from null to its default, true. 
+[02Feb2025 22:19:00.635] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Dimensions was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.638] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Dimensions.dimension_whitelist was corrected from null to its default, [minecraft:overworld]. 
+[02Feb2025 22:19:00.639] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Biomes was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.640] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Biomes.override_biome_datapack_config was corrected from null to its default, true. 
+[02Feb2025 22:19:00.641] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Biomes.surface_biomes_is_whitelist was corrected from null to its default, false. 
+[02Feb2025 22:19:00.642] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Biomes.surface_biomes was corrected from null to its default, []. 
+[02Feb2025 22:19:00.644] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.645] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.spotting_range was corrected from null to its default, 60. 
+[02Feb2025 22:19:00.646] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.can_disable_shields was corrected from null to its default, true. 
+[02Feb2025 22:19:00.647] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.can_climb was corrected from null to its default, true. 
+[02Feb2025 22:19:00.648] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.can_break_door was corrected from null to its default, true. 
+[02Feb2025 22:19:00.649] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.break_door_time was corrected from null to its default, 1. 
+[02Feb2025 22:19:00.649] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.allow_riding was corrected from null to its default, false. 
+[02Feb2025 22:19:00.650] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.target_invisible was corrected from null to its default, false. 
+[02Feb2025 22:19:00.652] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.653] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes.maximum_health was corrected from null to its default, 500.0. 
+[02Feb2025 22:19:00.654] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes.attack_damage was corrected from null to its default, 6.0. 
+[02Feb2025 22:19:00.655] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes.attack_speed was corrected from null to its default, 0.35. 
+[02Feb2025 22:19:00.656] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes.movement_speed was corrected from null to its default, 0.5. 
+[02Feb2025 22:19:00.657] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes.depth_strider_bonus was corrected from null to its default, 2.5. 
+[02Feb2025 22:19:00.659] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Misc was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Feb2025 22:19:00.660] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Misc.only_play_noise_to_target was corrected from null to its default, false. 
+[02Feb2025 22:19:00.662] [Thread-0/INFO] [de.cadentem.goatman.Goatman/]: Server configuration has been reloaded
+[02Feb2025 22:19:00.664] [Thread-0/INFO] [de.cadentem.goatman.Goatman/]: Server configuration has been reloaded
+[02Feb2025 22:19:00.673] [Thread-0/INFO] [de.cadentem.goatman.Goatman/]: Server configuration has been reloaded
+[02Feb2025 22:19:00.675] [Thread-0/INFO] [de.cadentem.goatman.Goatman/]: Server configuration has been reloaded
+[02Feb2025 22:19:00.680] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[02Feb2025 22:19:00.681] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[02Feb2025 22:19:01.020] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[02Feb2025 22:19:01.021] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[02Feb2025 22:19:01.021] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[02Feb2025 22:19:01.021] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[02Feb2025 22:19:01.022] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[02Feb2025 22:19:01.023] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[02Feb2025 22:19:01.023] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[02Feb2025 22:19:01.023] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[02Feb2025 22:19:01.024] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[02Feb2025 22:19:01.024] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[02Feb2025 22:19:01.034] [Server thread/INFO] [configured/]: Loading server configs...
+[02Feb2025 22:19:01.149] [Server thread/INFO] [Framework/]: Loading server configs...
+[02Feb2025 22:19:01.183] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[02Feb2025 22:19:02.068] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[02Feb2025 22:19:02.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[02Feb2025 22:19:02.474] [Server thread/INFO] [voicechat/]: [voicechat] Successfully migrated config voicechat-server.toml
+[02Feb2025 22:19:26.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02Feb2025 22:19:28.156] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:28.168] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:28.175] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:28.187] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:28.188] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:28.748] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:29.112] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:29.775] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:30.224] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:30.617] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:31.220] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:31.834] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:32.144] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:32.742] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:33.132] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:33.626] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:34.655] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:34.671] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:35.438] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:35.605] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:36.112] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:36.678] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:37.125] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:37.628] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:38.128] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:38.676] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:39.118] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:39.602] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:40.152] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:43.127] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:43.129] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:43.130] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:43.130] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:43.131] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:43.149] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:43.603] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:44.113] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:44.666] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:45.174] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Feb2025 22:19:45.609] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[02Feb2025 22:19:46.233] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[02Feb2025 22:19:46.607] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[02Feb2025 22:19:47.112] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[02Feb2025 22:19:47.638] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[02Feb2025 22:19:48.207] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[02Feb2025 22:19:48.623] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[02Feb2025 22:19:49.104] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[02Feb2025 22:19:49.641] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[02Feb2025 22:19:50.117] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[02Feb2025 22:19:50.653] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[02Feb2025 22:19:51.111] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[02Feb2025 22:19:51.707] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[02Feb2025 22:19:52.104] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[02Feb2025 22:19:52.967] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[02Feb2025 22:19:53.197] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[02Feb2025 22:19:53.667] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[02Feb2025 22:19:54.415] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[02Feb2025 22:19:54.634] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[02Feb2025 22:19:55.110] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[02Feb2025 22:19:55.773] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[02Feb2025 22:19:56.109] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[02Feb2025 22:19:56.675] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[02Feb2025 22:19:57.188] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[02Feb2025 22:19:57.619] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[02Feb2025 22:19:58.136] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[02Feb2025 22:19:58.625] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[02Feb2025 22:19:59.110] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Feb2025 22:19:59.610] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Feb2025 22:20:00.117] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Feb2025 22:20:00.600] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Feb2025 22:20:01.109] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Feb2025 22:20:01.600] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Feb2025 22:20:02.142] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Feb2025 22:20:02.637] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Feb2025 22:20:03.110] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Feb2025 22:20:03.681] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Feb2025 22:20:04.103] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Feb2025 22:20:04.630] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Feb2025 22:20:05.124] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Feb2025 22:20:05.646] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Feb2025 22:20:06.106] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Feb2025 22:20:06.616] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Feb2025 22:20:07.161] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Feb2025 22:20:07.649] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Feb2025 22:20:08.125] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Feb2025 22:20:08.669] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Feb2025 22:20:09.115] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Feb2025 22:20:09.624] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[02Feb2025 22:20:10.180] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[02Feb2025 22:20:10.722] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[02Feb2025 22:20:11.234] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[02Feb2025 22:20:11.672] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[02Feb2025 22:20:12.199] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[02Feb2025 22:20:12.663] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[02Feb2025 22:20:13.166] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[02Feb2025 22:20:13.612] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[02Feb2025 22:20:14.134] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
+[02Feb2025 22:20:14.992] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 21%
+[02Feb2025 22:20:15.532] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[02Feb2025 22:20:15.602] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 28%
+[02Feb2025 22:20:16.124] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 29%
+[02Feb2025 22:20:16.650] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 29%
+[02Feb2025 22:20:17.112] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
+[02Feb2025 22:20:17.609] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
+[02Feb2025 22:20:18.125] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
+[02Feb2025 22:20:18.651] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
+[02Feb2025 22:20:19.103] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
+[02Feb2025 22:20:19.610] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
+[02Feb2025 22:20:20.142] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
+[02Feb2025 22:20:20.614] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[02Feb2025 22:20:21.135] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[02Feb2025 22:20:21.626] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[02Feb2025 22:20:22.224] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[02Feb2025 22:20:22.610] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[02Feb2025 22:20:23.178] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[02Feb2025 22:20:23.624] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[02Feb2025 22:20:24.102] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[02Feb2025 22:20:25.628] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[02Feb2025 22:20:25.629] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[02Feb2025 22:20:25.629] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[02Feb2025 22:20:26.101] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[02Feb2025 22:20:26.621] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[02Feb2025 22:20:27.154] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[02Feb2025 22:20:27.604] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[02Feb2025 22:20:28.113] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[02Feb2025 22:20:28.632] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[02Feb2025 22:20:29.137] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[02Feb2025 22:20:29.614] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[02Feb2025 22:20:30.176] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[02Feb2025 22:20:30.667] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[02Feb2025 22:20:31.122] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
+[02Feb2025 22:20:31.614] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
+[02Feb2025 22:20:32.143] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
+[02Feb2025 22:20:32.632] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
+[02Feb2025 22:20:33.120] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
+[02Feb2025 22:20:33.603] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[02Feb2025 22:20:34.150] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[02Feb2025 22:20:34.638] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[02Feb2025 22:20:35.108] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[02Feb2025 22:20:35.629] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[02Feb2025 22:20:36.139] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[02Feb2025 22:20:36.664] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[02Feb2025 22:20:37.132] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[02Feb2025 22:20:37.602] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[02Feb2025 22:20:38.133] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[02Feb2025 22:20:38.642] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[02Feb2025 22:20:39.103] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[02Feb2025 22:20:39.624] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[02Feb2025 22:20:40.195] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[02Feb2025 22:20:40.648] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[02Feb2025 22:20:41.114] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[02Feb2025 22:20:41.631] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 53%
+[02Feb2025 22:20:42.158] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 53%
+[02Feb2025 22:20:42.618] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
+[02Feb2025 22:20:43.109] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
+[02Feb2025 22:20:43.626] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 61%
+[02Feb2025 22:20:44.136] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
+[02Feb2025 22:20:44.624] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
+[02Feb2025 22:20:45.114] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 63%
+[02Feb2025 22:20:45.608] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 64%
+[02Feb2025 22:20:46.104] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[02Feb2025 22:20:46.627] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[02Feb2025 22:20:47.113] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[02Feb2025 22:20:47.608] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[02Feb2025 22:20:48.123] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[02Feb2025 22:20:48.615] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[02Feb2025 22:20:49.100] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[02Feb2025 22:20:49.723] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[02Feb2025 22:20:50.114] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[02Feb2025 22:20:50.605] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[02Feb2025 22:20:51.103] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[02Feb2025 22:20:51.613] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[02Feb2025 22:20:52.106] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[02Feb2025 22:20:52.691] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 67%
+[02Feb2025 22:20:53.169] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[02Feb2025 22:20:53.604] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
+[02Feb2025 22:20:54.101] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
+[02Feb2025 22:20:54.606] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 77%
+[02Feb2025 22:20:55.162] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
+[02Feb2025 22:20:55.738] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
+[02Feb2025 22:20:56.186] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
+[02Feb2025 22:20:56.601] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
+[02Feb2025 22:20:57.117] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 81%
+[02Feb2025 22:20:57.605] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 82%
+[02Feb2025 22:20:58.112] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 82%
+[02Feb2025 22:20:58.603] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[02Feb2025 22:20:59.151] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[02Feb2025 22:20:59.639] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[02Feb2025 22:21:00.302] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[02Feb2025 22:21:00.600] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[02Feb2025 22:21:01.147] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[02Feb2025 22:21:01.618] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[02Feb2025 22:21:02.341] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[02Feb2025 22:21:02.644] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
+[02Feb2025 22:21:03.124] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
+[02Feb2025 22:21:03.628] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
+[02Feb2025 22:21:04.109] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[02Feb2025 22:21:04.605] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[02Feb2025 22:21:05.145] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[02Feb2025 22:21:05.604] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[02Feb2025 22:21:06.107] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[02Feb2025 22:21:06.660] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[02Feb2025 22:21:07.100] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[02Feb2025 22:21:07.639] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[02Feb2025 22:21:08.105] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[02Feb2025 22:21:08.607] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[02Feb2025 22:21:09.104] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[02Feb2025 22:21:10.230] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
+[02Feb2025 22:21:10.231] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
+[02Feb2025 22:21:10.486] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 104387 ms
+[02Feb2025 22:21:10.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (131.114s)! For help, type "help"
+[02Feb2025 22:21:10.605] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02Feb2025 22:21:10.642] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[02Feb2025 22:21:10.672] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[02Feb2025 22:21:10.673] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[02Feb2025 22:21:10.674] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
+[02Feb2025 22:21:10.756] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[02Feb2025 22:21:10.756] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[02Feb2025 22:21:10.756] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[02Feb2025 22:21:10.757] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
+[02Feb2025 22:21:10.897] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 42326 bytes (in 5 string chunks with the size of 10000)
+[02Feb2025 22:21:10.907] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[02Feb2025 22:21:11.002] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[02Feb2025 22:21:13.819] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Found Pupfish chunk at -225 ~ 608 after 30 tries
