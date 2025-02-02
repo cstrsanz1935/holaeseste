@@ -993,3 +993,22 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [02Feb2025 22:57:18.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7e8b2794-e388-32a6-a14e-8493409a72c8
 [02Feb2025 22:57:18.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player _Castro07 (7e8b2794-e388-32a6-a14e-8493409a72c8) successfully connected to voice chat
 [02Feb2025 22:58:01.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aidiosss has reached the goal [Feelingwatched]
+[02Feb2025 22:58:37.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Feb2025 22:58:40.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Feb2025 22:58:55.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Castro07 was slain by Man From The Fog
+[02Feb2025 22:59:27.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Castro07 has made the advancement [Monster Hunter]
+[02Feb2025 22:59:40.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aidiosss was slain by Man From The Fog
+[02Feb2025 22:59:45.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Feb2025 22:59:51.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Castro07 was slain by Zombie
+[02Feb2025 23:00:22.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Feb2025 23:00:28.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Castro07 was slain by Zombie
+[02Feb2025 23:00:42.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Castro07> no hay tp
+[02Feb2025 23:01:06.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Feb2025 23:01:12.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Castro07 was frozen to death by Stray
+[02Feb2025 23:02:23.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[02Feb2025 23:03:07.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 29028ms or 580 ticks behind
+[02Feb2025 23:03:28.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6808ms or 136 ticks behind
+[02Feb2025 23:03:59.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15482ms or 309 ticks behind
+[02Feb2025 23:04:20.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6189ms or 123 ticks behind
+[02Feb2025 23:04:38.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[02Feb2025 23:08:04.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Castro07> -152 63 -200

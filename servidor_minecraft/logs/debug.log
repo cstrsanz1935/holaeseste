@@ -8683,3 +8683,60 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [02Feb2025 22:57:18.189] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of _Castro07: {disabled=false, disconnected=false, uuid=7e8b2794-e388-32a6-a14e-8493409a72c8, name=_Castro07, group=null}
 [02Feb2025 22:57:26.442] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of aidiosss: {disabled=true, disconnected=false, uuid=c6f6665b-91ae-3271-9d4e-669d5bd12436, name=aidiosss, group=null}
 [02Feb2025 22:58:01.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aidiosss has reached the goal [Feelingwatched]
+[02Feb2025 22:58:37.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Feb2025 22:58:40.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Feb2025 22:58:43.040] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of aidiosss: {disabled=false, disconnected=false, uuid=c6f6665b-91ae-3271-9d4e-669d5bd12436, name=aidiosss, group=null}
+[02Feb2025 22:58:45.451] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of aidiosss: {disabled=true, disconnected=false, uuid=c6f6665b-91ae-3271-9d4e-669d5bd12436, name=aidiosss, group=null}
+[02Feb2025 22:58:50.490] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of aidiosss: {disabled=false, disconnected=false, uuid=c6f6665b-91ae-3271-9d4e-669d5bd12436, name=aidiosss, group=null}
+[02Feb2025 22:58:54.440] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of aidiosss: {disabled=true, disconnected=false, uuid=c6f6665b-91ae-3271-9d4e-669d5bd12436, name=aidiosss, group=null}
+[02Feb2025 22:58:55.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Castro07 was slain by Man From The Fog
+[02Feb2025 22:58:58.151] [Server thread/DEBUG] [twilightforest/]: Player _Castro07 (7e8b2794-e388-32a6-a14e-8493409a72c8) respawned and received items held in storage
+[02Feb2025 22:59:27.189] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of aidiosss: {disabled=false, disconnected=false, uuid=c6f6665b-91ae-3271-9d4e-669d5bd12436, name=aidiosss, group=null}
+[02Feb2025 22:59:27.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Castro07 has made the advancement [Monster Hunter]
+[02Feb2025 22:59:32.088] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of aidiosss: {disabled=true, disconnected=false, uuid=c6f6665b-91ae-3271-9d4e-669d5bd12436, name=aidiosss, group=null}
+[02Feb2025 22:59:32.719] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of aidiosss: {disabled=false, disconnected=false, uuid=c6f6665b-91ae-3271-9d4e-669d5bd12436, name=aidiosss, group=null}
+[02Feb2025 22:59:40.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aidiosss was slain by Man From The Fog
+[02Feb2025 22:59:42.513] [Server thread/DEBUG] [twilightforest/]: Player aidiosss (c6f6665b-91ae-3271-9d4e-669d5bd12436) respawned and received items held in storage
+[02Feb2025 22:59:45.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Feb2025 22:59:51.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Castro07 was slain by Zombie
+[02Feb2025 22:59:54.357] [Server thread/DEBUG] [twilightforest/]: Player _Castro07 (7e8b2794-e388-32a6-a14e-8493409a72c8) respawned and received items held in storage
+[02Feb2025 23:00:22.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Feb2025 23:00:28.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Castro07 was slain by Zombie
+[02Feb2025 23:00:30.542] [Server thread/DEBUG] [twilightforest/]: Player _Castro07 (7e8b2794-e388-32a6-a14e-8493409a72c8) respawned and received items held in storage
+[02Feb2025 23:00:42.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Castro07> no hay tp
+[02Feb2025 23:01:06.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Feb2025 23:01:12.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Castro07 was frozen to death by Stray
+[02Feb2025 23:01:14.199] [Server thread/DEBUG] [twilightforest/]: Player _Castro07 (7e8b2794-e388-32a6-a14e-8493409a72c8) respawned and received items held in storage
+[02Feb2025 23:01:18.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 23:01:18.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 23:02:04.432] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of aidiosss: {disabled=true, disconnected=false, uuid=c6f6665b-91ae-3271-9d4e-669d5bd12436, name=aidiosss, group=null}
+[02Feb2025 23:02:07.301] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of aidiosss: {disabled=false, disconnected=false, uuid=c6f6665b-91ae-3271-9d4e-669d5bd12436, name=aidiosss, group=null}
+[02Feb2025 23:02:14.411] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of aidiosss: {disabled=true, disconnected=false, uuid=c6f6665b-91ae-3271-9d4e-669d5bd12436, name=aidiosss, group=null}
+[02Feb2025 23:02:23.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[02Feb2025 23:03:07.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 29028ms or 580 ticks behind
+[02Feb2025 23:03:28.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6808ms or 136 ticks behind
+[02Feb2025 23:03:59.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15482ms or 309 ticks behind
+[02Feb2025 23:04:20.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6189ms or 123 ticks behind
+[02Feb2025 23:04:38.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[02Feb2025 23:04:45.110] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[02Feb2025 23:05:29.907] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['aidiosss'/2184, l='ServerLevel[world]', x=-59.70, y=63.00, z=94.70]]
+[02Feb2025 23:05:30.078] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['_Castro07'/3111, l='ServerLevel[world]', x=-192.93, y=74.94, z=-200.31]]
+[02Feb2025 23:05:31.328] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['aidiosss'/2184, l='ServerLevel[world]', x=-59.70, y=63.00, z=94.70]]
+[02Feb2025 23:05:32.327] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['_Castro07'/3111, l='ServerLevel[world]', x=-194.70, y=76.00, z=-202.62]]
+[02Feb2025 23:05:34.428] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['_Castro07'/3111, l='ServerLevel[world]', x=-194.04, y=76.00, z=-205.85]]
+[02Feb2025 23:05:35.478] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['_Castro07'/3111, l='ServerLevel[world]', x=-194.04, y=76.00, z=-205.85]]
+[02Feb2025 23:05:36.478] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['aidiosss'/2184, l='ServerLevel[world]', x=-59.70, y=63.00, z=94.70]]
+[02Feb2025 23:05:37.378] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['_Castro07'/3111, l='ServerLevel[world]', x=-194.04, y=76.00, z=-205.85]]
+[02Feb2025 23:05:37.679] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['aidiosss'/2184, l='ServerLevel[world]', x=-59.70, y=63.00, z=94.70]]
+[02Feb2025 23:05:40.053] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['_Castro07'/3111, l='ServerLevel[world]', x=-193.97, y=76.00, z=-205.30]]
+[02Feb2025 23:05:41.480] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['aidiosss'/2184, l='ServerLevel[world]', x=-59.70, y=63.00, z=94.70]]
+[02Feb2025 23:05:42.727] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['_Castro07'/3111, l='ServerLevel[world]', x=-194.60, y=76.00, z=-204.71]]
+[02Feb2025 23:05:43.229] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['aidiosss'/2184, l='ServerLevel[world]', x=-59.70, y=63.00, z=94.70]]
+[02Feb2025 23:05:43.427] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['_Castro07'/3111, l='ServerLevel[world]', x=-194.03, y=76.00, z=-201.23]]
+[02Feb2025 23:05:43.827] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['aidiosss'/2184, l='ServerLevel[world]', x=-59.70, y=63.00, z=94.70]]
+[02Feb2025 23:05:44.728] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['aidiosss'/2184, l='ServerLevel[world]', x=-59.70, y=63.00, z=94.70]]
+[02Feb2025 23:05:45.429] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['_Castro07'/3111, l='ServerLevel[world]', x=-199.01, y=69.00, z=-197.30]]
+[02Feb2025 23:07:19.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 23:07:19.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 23:07:22.206] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of aidiosss: {disabled=false, disconnected=false, uuid=c6f6665b-91ae-3271-9d4e-669d5bd12436, name=aidiosss, group=null}
+[02Feb2025 23:08:04.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Castro07> -152 63 -200

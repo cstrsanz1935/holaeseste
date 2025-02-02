@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "man:feelingwatched": {
+    "criteria": {
+      "feelingwatched": "2025-02-02 22:58:01 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2025-02-02 22:39:37 +0000"
@@ -101,9 +107,23 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "cold_desert": "2025-02-02 23:00:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-02 22:56:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:snowy_slopes": "2025-02-02 22:39:40 +0000"
+      "minecraft:snowy_slopes": "2025-02-02 22:39:40 +0000",
+      "minecraft:frozen_river": "2025-02-02 23:00:31 +0000",
+      "minecraft:snowy_plains": "2025-02-02 23:00:11 +0000"
     },
     "done": false
   },
@@ -314,6 +334,12 @@
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-02-02 22:39:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "cold_desert": "2025-02-02 23:00:02 +0000"
     },
     "done": true
   },
