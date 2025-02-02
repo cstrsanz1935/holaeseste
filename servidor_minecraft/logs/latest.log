@@ -965,3 +965,19 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [02Feb2025 22:21:10.907] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [02Feb2025 22:21:11.002] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
 [02Feb2025 22:21:13.819] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Found Pupfish chunk at -225 ~ 608 after 30 tries
+[02Feb2025 22:39:37.460] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[02Feb2025 22:39:37.543] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@49a008b1
+[02Feb2025 22:39:37.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aidiosss[/172.29.144.152:57803] logged in with entity id 2184 at (3.5, 95.0, -2.5)
+[02Feb2025 22:39:37.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aidiosss joined the game
+[02Feb2025 22:39:38.014] [Server thread/INFO] [Jade/]: Syncing config to aidiosss (c6f6665b-91ae-3271-9d4e-669d5bd12436)
+[02Feb2025 22:39:38.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aidiosss has made the advancement [Ice and Fire]
+[02Feb2025 22:39:39.117] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of aidiosss (18)
+[02Feb2025 22:39:39.131] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to aidiosss
+[02Feb2025 22:39:40.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[02Feb2025 22:39:56.796] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c6f6665b-91ae-3271-9d4e-669d5bd12436
+[02Feb2025 22:39:57.792] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c6f6665b-91ae-3271-9d4e-669d5bd12436
+[02Feb2025 22:39:57.798] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player aidiosss (c6f6665b-91ae-3271-9d4e-669d5bd12436) successfully connected to voice chat
+[02Feb2025 22:40:01.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5171ms or 103 ticks behind
+[02Feb2025 22:41:05.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aidiosss has made the advancement [Monster Hunter]
+[02Feb2025 22:42:16.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Feb2025 22:43:16.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aidiosss was blown up by Creeper
